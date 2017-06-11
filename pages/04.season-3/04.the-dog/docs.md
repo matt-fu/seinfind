@@ -39,3 +39,4 @@ Jerry delivers a monologue on people and dogs:
 
 This has been quoted (and mis-quoted) enough to permeate the culture, approaching catchphrase standards.[2][3][4][5][6]
 
+## Script
