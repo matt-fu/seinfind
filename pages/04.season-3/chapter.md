@@ -1,0 +1,30 @@
+---
+title: 'Season 3'
+taxonomy:
+    category:
+        - docs
+---
+
+# Season 3
+
+Season three of _Seinfeld_, an American television series created by Jerry Seinfeld and Larry David, began airing on September 18, 1991 on NBC, a U.S. broadcast television network. It comprises 23 episodes and concluded its initial airing on May 6, 1992. "The Tape", "The Pen", and "The Letter" are some of the season's episodes that were inspired by the writers' own experiences. Co-creator Larry David admits that season three was a big turning point for the series in terms of how the show was made; it’s where the writers started doing non linear storylines with episodes containing multiple stories. George was becoming a bigger liar, Elaine was becoming more quirky, and Kramer was becoming surer of himself throughout his crazy antics. This season received eight Emmy nominations and one Directors Guild of America Award.
+
+The DVD boxset for season three was released by Sony Pictures Home Entertainment in Region 1 on November 23, 2004, twelve years after it had completed broadcast on television. It was also released in Region 2 on November 1, 2004 and on October 18, 2004 in Region 4. As well as every episode from the season (minus The Stranded which was produced for the second season), the DVD release features bonus material including deleted scenes, exclusive stand-up material, and commentaries.
+
+## Production
+
+_Seinfeld_ was produced by Castle Rock Entertainment and distributed by Columbia Pictures Television and Columbia TriStar Television and was aired on NBC in the U.S. The executive producers were Larry David, George Shapiro, and Howard West with Tom Gammill and Max Pross as supervising producers. Bruce Kirschbaum was the executive consultant. Tom Cherones was the main director for this season; however, some of the episodes were directed by David Steinberg, Joshua White, and Jason Alexander. This season was written by Larry David, Jerry Seinfeld, Larry Charles, Peter Mehlman, Elaine Pope, Tom Leopold, Bob Shaw, Don McEnery, Bill Masters, and Greg Daniels.
+
+The series was set predominantly in an apartment block on New York City's Upper West Side; however, the third season was shot and mostly in filmed CBS Studio Center in Studio City, California. The show features Jerry Seinfeld as himself, Jason Alexander as George Costanza, Julia Louis-Dreyfus as Elaine Benes, and Michael Richards as Kramer. Due to Julia Louis-Dreyfus's off-screen pregnancy, her character had to spend the latter half of this season hiding her belly behind furniture and laundry baskets. Harris Shore played the role of Mr. Lippman in "The Library"; however, Richard Fancy took over the role for the remainder of the series. The Babu Bhatt character was originally scripted under the name of Vong Sim, but was later changed.
+
+### Storyline inspirations
+
+A number of the season's episodes were inspired by the writers' own experiences. "The Pen" was partly inspired by a sofa bed owned by Jerry Seinfeld's mother Betty. During stays, Seinfeld would put the couch cushions on the floor and sleep on them there to avoid the uncomfortable mattress. The Chinese baldness cure that George tries in "The Tape" is based on something Larry David tried while living in New York. Also, the shots Kramer takes of George's scalp in this episode are identical to those the real Kenny Kramer took of Larry David. Elaine's story in "The Letter" was inspired by Larry David's experience attending an Angels – Yankees game in Anaheim, California. While seated as a guest in Gene Autry's box, David was asked to remove the hat. David could be seen wearing the hat on the front page of the _Los Angeles Times_ sports section the following day. Mr. West is also named after Howard West, one of the show's executive producers, who provided Larry David with a connection to the seats in the owners' box.
+
+### Theme song
+
+The season premiere, "The Note", is the only episode (other than the original pilot) with a different version of the theme song, which included female back-up singers harmonizing over the iconic slap-bass tune. The singers were added by composer Jonathan Wolff at the request of Jerry Seinfeld, who wanted to add "a little sparkle" to the music, suggesting the addition of some scat lyrics. Seinfeld and executive producer Larry David both liked Wolff's additions, and three episodes were produced with the new style music. However, they had neglected to inform NBC and Castle Rock of the change, and when the season premiere aired, they were surprised and unimpressed, and requested that they return to the original style. The subsequent two episodes were redone, leaving "The Note" as the only episode with the additional music elements.
+
+## Awards
+
+Season three received eight Emmy nominations, two of which were won. Elaine Pope and Larry Charles won "Primetime Emmy Award for Outstanding Writing in a Comedy Series" for "The Fix-Up". Janet Ashikaga also won for "Outstanding Individual Achievement in Editing for a Series", for the episode "The Subway." Jerry Seinfeld was nominated for "Outstanding Lead Actor in a Comedy Series" for the special one-hour episode "The Boyfriend/New Friend," losing to Craig T. Nelson for his portrayal of Hayden Fox on the ABC sitcom Coach and Jason Alexander was nominated for "Outstanding Supporting Actor in a Comedy Series", losing to Michael Jeter in the CBS comedy Evening Shade. The series was also nominated for "Outstanding Comedy Series" for this season, which was won by Murphy Brown, then in its fourth season. The series would be nominated in that category for the remaining six seasons, winning only once, in the next season. There were also two other Emmy nominations for the "Outstanding Writing in a Comedy Series" category, with Larry David, Bob Shaw, and Don McEnery for "The Tape", and Larry David for "The Parking Garage". David Steinberg was nominated for a Directors Guild of America Award for "Outstanding Directorial Achievement in Comedy Series" for "The Tape".
