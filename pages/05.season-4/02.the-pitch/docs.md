@@ -58,3 +58,5 @@ Telecaller: No.
 Jerry: Well, now you know how I feel. (Hangs up)[3]
 
 The Pew Charitable Trusts thought it worthwhile to weigh in on this episode, naming telemarketing one of the contributors to "rudeness in America".
+
+## Script
