@@ -1,16 +1,16 @@
 ---
 title: 'The Stake Out'
+episode: '2'
+pc: '103'
+written: 'Larry David and Jerry Seinfeld'
+directed: 'Tom Cherones'
+aired: 'May 31, 1990'
+imdb: 'http://www.imdb.com/title/tt0697784/'
+wiki: 'https://en.wikipedia.org/wiki/The_Stake_Out_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 2 | <a href="http://www.imdb.com/title/XXXXXXXXXXX/" target="_new"><i class="fa fa-lg fa-imdb"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/YYYYYYYYYY" target="_new"><i class="fa fa-lg fa-wikipedia-w"></i></a> |
-|-----------------|--------------------------------|
-| Production code | 103                            |
-| Written by      | Larry David and Jerry Seinfeld |
-| Directed by     | Tom Cherones                   |
-| Air date        | May 31, 1990                   |
 
 [TOC]
 

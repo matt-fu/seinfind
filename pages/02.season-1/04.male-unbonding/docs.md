@@ -1,16 +1,16 @@
 ---
 title: 'Male Unbonding'
+episode: '4'
+pc: '102'
+written: 'Jerry Seinfeld and Larry David'
+directed: 'Tom Cherones'
+aired: 'June 14, 1990'
+imdb: 'http://www.imdb.com/title/tt0697645/'
+wiki: 'https://en.wikipedia.org/wiki/Male_Unbonding'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 4 | <a href="http://www.imdb.com/title/XXXXXXXXXXX/" target="_new"><i class="fa fa-lg fa-imdb"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/YYYYYYYYYY" target="_new"><i class="fa fa-lg fa-wikipedia-w"></i></a> |
-|-----------------|--------------------------------|
-| Production code | 102                            |
-| Written by      | Jerry Seinfeld and Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | June 14, 1990                  |
 
 [TOC]
 

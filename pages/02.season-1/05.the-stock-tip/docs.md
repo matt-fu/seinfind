@@ -1,16 +1,16 @@
 ---
 title: 'The Stock Tip'
+episode: '5'
+pc: '105'
+written: 'Jerry Seinfeld and Larry David'
+directed: 'Tom Cherones'
+aired: 'June 21, 1990'
+imdb: 'http://www.imdb.com/title/tt0697788/'
+wiki: 'https://en.wikipedia.org/wiki/The_Stock_Tip'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 5 | <a href="http://www.imdb.com/title/XXXXXXXXXXX/" target="_new"><i class="fa fa-lg fa-imdb"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/YYYYYYYYYY" target="_new"><i class="fa fa-lg fa-wikipedia-w"></i></a> |
-|-----------------|--------------------------------|
-| Production code | 105                            |
-| Written by      | Jerry Seinfeld and Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | June 21, 1990                  |
 
 [TOC]
 

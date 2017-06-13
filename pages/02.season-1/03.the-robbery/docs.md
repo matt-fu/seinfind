@@ -1,16 +1,16 @@
 ---
 title: 'The Robbery'
+episode: '3'
+pc: '104'
+written: 'Matt Goldman'
+directed: 'Art Wolff'
+aired: 'June 7, 1990'
+imdb: 'http://www.imdb.com/title/tt0697768/'
+wiki: 'https://en.wikipedia.org/wiki/The_Robbery'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 3 | <a href="http://www.imdb.com/title/XXXXXXXXXXX/" target="_new"><i class="fa fa-lg fa-imdb"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/YYYYYYYYYY" target="_new"><i class="fa fa-lg fa-wikipedia-w"></i></a> |
-|-----------------|--------------|
-| Production code | 104          |
-| Written by      | Matt Goldman |
-| Directed by     | Art Wolff    |
-| Air date        | June 7, 1990 |
 
 [TOC]
 
