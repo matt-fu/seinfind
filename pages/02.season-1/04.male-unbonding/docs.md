@@ -5,7 +5,7 @@ taxonomy:
         - episode
 ---
 
-| Episode 4 | |
+| Episode 4 | <a href="http://www.imdb.com/title/XXXXXXXXXXX/" target="_new"><i class="fa fa-lg fa-imdb"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/YYYYYYYYYY" target="_new"><i class="fa fa-lg fa-wikipedia-w"></i></a> |
 |-----------------|--------------------------------|
 | Production code | 102                            |
 | Written by      | Jerry Seinfeld and Larry David |

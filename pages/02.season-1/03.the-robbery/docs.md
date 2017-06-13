@@ -5,7 +5,7 @@ taxonomy:
         - episode
 ---
 
-| Episode 3 | |
+| Episode 3 | <a href="http://www.imdb.com/title/XXXXXXXXXXX/" target="_new"><i class="fa fa-lg fa-imdb"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/YYYYYYYYYY" target="_new"><i class="fa fa-lg fa-wikipedia-w"></i></a> |
 |-----------------|--------------|
 | Production code | 104          |
 | Written by      | Matt Goldman |

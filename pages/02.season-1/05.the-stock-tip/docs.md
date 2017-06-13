@@ -5,7 +5,7 @@ taxonomy:
         - episode
 ---
 
-| Episode 5 | |
+| Episode 5 | <a href="http://www.imdb.com/title/XXXXXXXXXXX/" target="_new"><i class="fa fa-lg fa-imdb"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/YYYYYYYYYY" target="_new"><i class="fa fa-lg fa-wikipedia-w"></i></a> |
 |-----------------|--------------------------------|
 | Production code | 105                            |
 | Written by      | Jerry Seinfeld and Larry David |

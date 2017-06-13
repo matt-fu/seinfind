@@ -5,7 +5,7 @@ taxonomy:
         - episode
 ---
 
-| Episode 2 | |
+| Episode 2 | <a href="http://www.imdb.com/title/XXXXXXXXXXX/" target="_new"><i class="fa fa-lg fa-imdb"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/YYYYYYYYYY" target="_new"><i class="fa fa-lg fa-wikipedia-w"></i></a> |
 |-----------------|--------------------------------|
 | Production code | 103                            |
 | Written by      | Larry David and Jerry Seinfeld |
