@@ -5,7 +5,7 @@ taxonomy:
         - episode
 ---
 
-| Episode 23 & 24 | <i class="fa fa-lg fa-github"></i> |
+| Episode 23 & 24 | <a href="http://www.imdb.com/title/tt0697754/"<i class="fa fa-lg fa-imdb"></i></a> |
 |-----------------|--------------------------------|
 | Production code | 423 & 424                      |
 | Written by      | Larry David                    |
