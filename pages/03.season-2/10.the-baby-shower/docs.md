@@ -1,16 +1,16 @@
 ---
 title: 'The Baby Shower'
+episode: '10'
+pc: '204'
+written: 'Larry Charles'
+directed: 'Tom Cherones'
+aired: 'May 16, 1991'
+imdb: 'http://www.imdb.com/title/tt0697652/'
+wiki: 'https://en.wikipedia.org/wiki/The_Baby_Shower_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 10 | |
-|-----------------|---------------|
-| Production code | 204           |
-| Written by      | Larry Charles |
-| Directed by     | Tom Cherones  |
-| Air date        | May 16, 1991  |
 
 [TOC]
 

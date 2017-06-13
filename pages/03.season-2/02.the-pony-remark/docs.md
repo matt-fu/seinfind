@@ -1,16 +1,16 @@
 ---
 title: 'The Pony Remark'
+episode: '2'
+pc: '202'
+written: 'Larry David and Jerry Seinfeld'
+directed: 'Tom Cherones'
+aired: 'January 30, 1991'
+imdb: 'http://www.imdb.com/title/tt0697757/'
+wiki: 'https://en.wikipedia.org/wiki/The_Pony_Remark'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 2 | |
-|-----------------|--------------------------------|
-| Production code | 202                            |
-| Written by      | Larry David and Jerry Seinfeld |
-| Directed by     | Tom Cherones                   |
-| Air date        | January 30, 1991               |
 
 [TOC]
 

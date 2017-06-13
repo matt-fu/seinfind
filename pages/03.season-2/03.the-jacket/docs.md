@@ -1,16 +1,16 @@
 ---
 title: 'The Jacket'
+episode: '3'
+pc: '205'
+written: 'Larry David and Jerry Seinfeld'
+directed: 'Tom Cherones'
+aired: 'February 6, 1991'
+imdb: 'http://www.imdb.com/title/tt0697713/'
+wiki: 'https://en.wikipedia.org/wiki/The_Jacket_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 3 | |
-|-----------------|--------------------------------|
-| Production code | 205                            |
-| Written by      | Larry David and Jerry Seinfeld |
-| Directed by     | Tom Cherones                   |
-| Air date        | February 6, 1991               |
 
 [TOC]
 

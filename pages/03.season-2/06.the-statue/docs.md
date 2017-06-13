@@ -1,16 +1,16 @@
 ---
 title: 'The Statue'
+episode: '6'
+pc: '210'
+written: 'Larry Charles'
+directed: 'Tom Cherones'
+aired: 'April 11, 1991'
+imdb: 'http://www.imdb.com/title/tt0697787/'
+wiki: 'https://en.wikipedia.org/wiki/The_Statue_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 6 | |
-|-----------------|----------------|
-| Production code | 210            |
-| Written by      | Larry Charles  |
-| Directed by     | Tom Cherones   |
-| Air date        | April 11, 1991 |
 
 [TOC]
 

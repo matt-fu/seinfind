@@ -1,16 +1,16 @@
 ---
 title: 'The Chinese Restaurant'
+episode: '11'
+pc: '206'
+written: 'Larry David and Jerry Seinfeld'
+directed: 'Tom Cherones'
+aired: 'May 23, 1991'
+imdb: 'http://www.imdb.com/title/tt0697675/'
+wiki: 'https://en.wikipedia.org/wiki/The_Chinese_Restaurant'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 11 | |
-|-----------------|--------------------------------|
-| Production code | 206                            |
-| Written by      | Larry David and Jerry Seinfeld |
-| Directed by     | Tom Cherones                   |
-| Air date        | May 23, 1991                   |
 
 [TOC]
 

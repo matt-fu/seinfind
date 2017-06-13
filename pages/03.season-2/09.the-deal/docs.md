@@ -1,16 +1,16 @@
 ---
 title: 'The Deal'
+episode: '9'
+pc: '213'
+written: 'Larry David'
+directed: 'Tom Cherones'
+aired: 'May 2, 1991'
+imdb: 'http://www.imdb.com/title/tt0697682/'
+wiki: 'https://en.wikipedia.org/wiki/The_Deal_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 9 | |
-|-----------------|--------------|
-| Production code | 213          |
-| Written by      | Larry David  |
-| Directed by     | Tom Cherones |
-| Air date        | May 2, 1991  |
 
 [TOC]
 

@@ -1,16 +1,16 @@
 ---
 title: 'The Heart Attack'
+episode: '8'
+pc: '211'
+written: 'Larry Charles'
+directed: 'Tom Cherones'
+aired: 'April 25, 1991'
+imdb: 'http://www.imdb.com/title/tt0697709/'
+wiki: 'https://en.wikipedia.org/wiki/The_Heart_Attack'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 8 | |
-|-----------------|----------------|
-| Production code | 211            |
-| Written by      | Larry Charles  |
-| Directed by     | Tom Cherones   |
-| Air date        | April 25, 1991 |
 
 [TOC]
 

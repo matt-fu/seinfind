@@ -1,16 +1,16 @@
 ---
 title: 'The Revenge'
+episode: '7'
+pc: '212'
+written: 'Larry David'
+directed: 'Tom Cherones'
+aired: 'April 18, 1991'
+imdb: 'http://www.imdb.com/title/tt0697766/'
+wiki: 'https://en.wikipedia.org/wiki/The_Revenge_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 7 | |
-|-----------------|----------------|
-| Production code | 212            |
-| Written by      | Larry David    |
-| Directed by     | Tom Cherones   |
-| Air date        | April 18, 1991 |
 
 [TOC]
 

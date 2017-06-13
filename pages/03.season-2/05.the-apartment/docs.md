@@ -1,16 +1,16 @@
 ---
 title: 'The Apartment'
+episode: '5'
+pc: '208'
+written: 'Peter Mehlman'
+directed: 'Tom Cherones'
+aired: 'April 4, 1991'
+imdb: 'http://www.imdb.com/title/tt0697650/'
+wiki: 'https://en.wikipedia.org/wiki/The_Apartment_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 5 | |
-|-----------------|---------------|
-| Production code | 208           |
-| Written by      | Peter Mehlman |
-| Directed by     | Tom Cherones  |
-| Air date        | April 4, 1991 |
 
 [TOC]
 

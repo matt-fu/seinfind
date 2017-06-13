@@ -1,16 +1,16 @@
 ---
 title: 'The Busboy'
+episode: '12'
+pc: '203'
+written: 'Larry David and Jerry Seinfeld'
+directed: 'Tom Cherones'
+aired: 'June 26, 1991'
+imdb: 'http://www.imdb.com/title/tt0697664/'
+wiki: 'https://en.wikipedia.org/wiki/The_Busboy'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 12 | |
-|-----------------|--------------------------------|
-| Production code | 203                            |
-| Written by      | Larry David and Jerry Seinfeld |
-| Directed by     | Tom Cherones                   |
-| Air date        | June 26, 1991                  |
 
 [TOC]
 

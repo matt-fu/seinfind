@@ -1,16 +1,16 @@
 ---
 title: 'The Phone Message'
+episode: '4'
+pc: '207'
+written: 'Larry David and Jerry Seinfeld'
+directed: 'Tom Cherones'
+aired: 'February 13, 1991'
+imdb: 'http://www.imdb.com/title/tt0697751/'
+wiki: 'https://en.wikipedia.org/wiki/The_Phone_Message'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 4 | |
-|-----------------|--------------------------------|
-| Production code | 207                            |
-| Written by      | Larry David and Jerry Seinfeld |
-| Directed by     | Tom Cherones                   |
-| Air date        | February 13, 1991              |
 
 [TOC]
 
