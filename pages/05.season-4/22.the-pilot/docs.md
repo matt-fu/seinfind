@@ -5,7 +5,7 @@ taxonomy:
         - episode
 ---
 
-| Episode 23 & 24 | <a href="http://www.imdb.com/title/tt0697754/" target="_new"><i class="fa fa-lg fa-imdb"></i></a> |
+| Episode 23 & 24 | <a href="http://www.imdb.com/title/tt0697754/" target="_new"><i class="fa fa-lg fa-imdb"></i></a> < href="https://en.wikipedia.org/wiki/The_Pilot_(Seinfeld)" target="_new"><i class="fa fa-lg fa-wikipedia-w"></i></a> |
 |-----------------|--------------------------------|
 | Production code | 423 & 424                      |
 | Written by      | Larry David                    |
