@@ -2,14 +2,10 @@
 title: 'The Couch'
 episode: '5'
 pc: '605'
+written: 'Larry David'
+directed: 'Andy Ackerman'
+aired: 'October 27, 1994'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 5 | |
-|-----------------|--------------------------------|
-| Production code | 605                            |
-| Written by      | Larry David |
-| Directed by     | Andy Ackerman                   |
-| Air date        | October 27, 1994                   |
