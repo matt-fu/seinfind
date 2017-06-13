@@ -11,9 +11,7 @@ taxonomy:
     category:
         - episode
 ---
-
 [TOC]
-
 "The Seinfeld Chronicles" (also known as "Good News, Bad News" or "Pilot") is the pilot episode of the American sitcom Seinfeld, which first aired on NBC on July 5, 1989.
 
 The first of the 180 Seinfeld episodes, the pilot was written by show creators Larry David and Jerry Seinfeld, and directed by Art Wolff. The episode revolves around a fictionalized version of Seinfeld, who is unsure about the romantic intentions of a woman he met, and frets about the meaning of her signals with his friend George (Jason Alexander) and neighbor Kramer (Michael Richards).
