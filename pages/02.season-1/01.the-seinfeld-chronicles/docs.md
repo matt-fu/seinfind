@@ -1,16 +1,16 @@
 ---
 title: 'The Seinfeld Chronicles'
+episode: '1'
+pc: '101'
+written: 'Larry David and Jerry Seinfeld'
+directed: 'Art Wolff'
+aired: 'July 5, 1989'
+imdb: 'http://www.imdb.com/title/tt0098286/'
+wiki: 'https://en.wikipedia.org/wiki/The_Seinfeld_Chronicles'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 1 | <a href="http://www.imdb.com/title/XXXXXXXXXXX/" target="_new"><i class="fa fa-lg fa-imdb"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/YYYYYYYYYY" target="_new"><i class="fa fa-lg fa-wikipedia-w"></i></a> |
-|-----------------|--------------------------------|
-| Production code | 101                            |
-| Written by      | Larry David and Jerry Seinfeld |
-| Directed by     | Art Wolff                      |
-| Air date        | July 5, 1989                   |
 
 [TOC]
 
