@@ -1,16 +1,16 @@
 ---
 title: 'The Tape'
+episode: '8'
+pc: '308'
+written: 'Larry David and Bob Shaw & Don McEnery'
+directed: 'David Steinberg'
+aired: 'November 13, 1991'
+imdb: 'http://www.imdb.com/title/tt0697797/'
+wiki: 'https://en.wikipedia.org/wiki/The_Tape'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 8 | |
-|-----------------|--------------------------------|
-| Production code | 308                            |
-| Written by      | Larry David and Bob Shaw & Don McEnery |
-| Directed by     | David Steinberg                   |
-| Air date        | November 13, 1991             |
 
 [TOC]
 

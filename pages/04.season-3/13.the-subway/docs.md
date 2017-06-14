@@ -1,16 +1,16 @@
 ---
 title: 'The Subway'
+episode: '13'
+pc: '313'
+written: 'Larry Charles'
+directed: 'Tom Cherones'
+aired: 'January 8, 1992'
+imdb: 'http://www.imdb.com/title/tt0697792/'
+wiki: 'https://en.wikipedia.org/wiki/The_Subway_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 13 | |
-|-----------------|--------------------------------|
-| Production code | 313                            |
-| Written by      | Larry Charles |
-| Directed by     | Tom Cherones                   |
-| Air date        | January 8, 1992             |
 
 [TOC]
 

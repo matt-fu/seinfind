@@ -1,16 +1,16 @@
 ---
 title: 'The Limo'
+episode: '19'
+pc: '318'
+written: '_Story by:_ Marc Jaffe _Teleplay by:_ Larry Charles'
+directed: 'Tom Cherones'
+aired: 'February 26, 1992'
+imdb: 'http://www.imdb.com/title/tt0697722/'
+wiki: 'https://en.wikipedia.org/wiki/The_Limo_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 19 | |
-|-----------------|--------------------------------|
-| Production code | 318                            |
-| Written by      | _Story by:_ Marc Jaffe _Teleplay by:_ Larry Charles |
-| Directed by     | Tom Cherones                   |
-| Air date        | February 26, 1992              |
 
 [TOC]
 

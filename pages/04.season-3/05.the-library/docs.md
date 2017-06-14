@@ -1,16 +1,16 @@
 ---
 title: 'The Library'
+episode: '5'
+pc: '304'
+written: 'Larry Charles'
+directed: 'Joshua White'
+aired: 'October 16, 1991'
+imdb: 'http://www.imdb.com/title/tt0697721/'
+wiki: 'https://en.wikipedia.org/wiki/The_Library_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 5 | |
-|-----------------|--------------------------------|
-| Production code | 304                            |
-| Written by      | Larry Charles |
-| Directed by     | Joshua White                   |
-| Air date        | October 16, 1991             |
 
 [TOC]
 

@@ -1,16 +1,16 @@
 ---
 title: 'The Dog'
+episode: '4'
+pc: '303'
+written: 'Larry David'
+directed: 'Tom Cherones'
+aired: 'October 9, 1991'
+imdb: 'http://www.imdb.com/title/tt0697686/'
+wiki: 'https://en.wikipedia.org/wiki/The_Dog_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 4 | |
-|-----------------|--------------------------------|
-| Production code | 303                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | October 9, 1991             |
 
 [TOC]
 

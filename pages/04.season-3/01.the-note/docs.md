@@ -1,16 +1,16 @@
 ---
 title: 'The Note'
+episode: '1'
+pc: '301'
+written: 'Larry David'
+directed: 'Tom Cherones'
+aired: 'September 18, 1991'
+imdb: 'http://www.imdb.com/title/tt0697741/'
+wiki: 'https://en.wikipedia.org/wiki/The_Note_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 1 | |
-|-----------------|--------------------------------|
-| Production code | 301                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | September 18, 1991             |
 
 [TOC]
 

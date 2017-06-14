@@ -1,16 +1,16 @@
 ---
 title: 'The Pez Dispenser'
+episode: '14'
+pc: '314'
+written: 'Larry David'
+directed: 'Tom Cherones'
+aired: 'January 15, 1992'
+imdb: 'http://www.imdb.com/title/tt0697750/'
+wiki: 'https://en.wikipedia.org/wiki/The_Pez_Dispenser'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 14 | |
-|-----------------|--------------------------------|
-| Production code | 314                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | January 15, 1992             |
 
 [TOC]
 

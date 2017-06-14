@@ -1,16 +1,16 @@
 ---
 title: 'The Boyfriend'
+episode: '17 & 18'
+pc: '315 & 316'
+written: 'Larry David and Larry Levin'
+directed: 'Tom Cherones'
+aired: 'February 12, 1992'
+imdb: 'http://www.imdb.com/title/tt0697738/'
+wiki: 'https://en.wikipedia.org/wiki/The_Boyfriend_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 17 & 18 | |
-|-----------------|--------------------------------|
-| Production code | 315 & 316                            |
-| Written by      | Larry David and Larry Levin |
-| Directed by     | Tom Cherones                   |
-| Air date        | February 12, 1992             |
 
 [TOC]
 

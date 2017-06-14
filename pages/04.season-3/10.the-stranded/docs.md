@@ -1,16 +1,16 @@
 ---
 title: 'The Stranded'
+episode: '10'
+pc: '209'
+written: 'Larry David & Jerry Seinfeld and Matt Goldman'
+directed: 'Tom Cherones'
+aired: 'November 27, 1991'
+imdb: 'http://www.imdb.com/title/tt0697789/'
+wiki: 'https://en.wikipedia.org/wiki/The_Stranded'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 10 | |
-|-----------------|--------------------------------|
-| Production code | 209                            |
-| Written by      | Larry David & Jerry Seinfeld and Matt Goldman |
-| Directed by     | Tom Cherones                   |
-| Air date        | November 27, 1991             |
 
 [TOC]
 

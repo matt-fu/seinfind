@@ -1,16 +1,16 @@
 ---
 title: 'The Letter'
+episode: '21'
+pc: '320'
+written: 'Larry David'
+directed: 'Tom Cherones'
+aired: 'March 25, 1992'
+imdb: 'http://www.imdb.com/title/tt0697720/'
+wiki: 'https://en.wikipedia.org/wiki/The_Letter_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 21 | |
-|-----------------|--------------------------------|
-| Production code | 320                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | March 25, 1992             |
 
 [TOC]
 

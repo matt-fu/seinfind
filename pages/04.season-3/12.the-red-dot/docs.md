@@ -1,16 +1,16 @@
 ---
 title: 'The Red Dot'
+episode: '12'
+pc: '311'
+written: 'Larry David'
+directed: 'Tom Cherones'
+aired: 'December 11, 1991'
+imdb: 'http://www.imdb.com/title/tt0697765/'
+wiki: 'https://en.wikipedia.org/wiki/The_Red_Dot'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 12 | |
-|-----------------|--------------------------------|
-| Production code | 311                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | December 11, 1991             |
 
 [TOC]
 

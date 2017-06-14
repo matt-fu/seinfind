@@ -1,16 +1,16 @@
 ---
 title: 'The Truth'
+episode: '2'
+pc: '302'
+written: 'Elaine Pope'
+directed: 'David Steinberg'
+aired: 'September 25, 1991'
+imdb: 'http://www.imdb.com/title/tt0697801/'
+wiki: 'https://en.wikipedia.org/wiki/The_Truth_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 2 | |
-|-----------------|--------------------------------|
-| Production code | 302                            |
-| Written by      | Elaine Pope |
-| Directed by     | David Steinberg                |
-| Air date        | September 25, 1991             |
 
 [TOC]
 

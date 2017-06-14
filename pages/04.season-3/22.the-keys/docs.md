@@ -1,16 +1,16 @@
 ---
 title: 'The Keys'
+episode: '23'
+pc: '321'
+written: 'Larry Charles'
+directed: 'Tom Cherones'
+aired: 'May 6, 1992'
+imdb: 'http://www.imdb.com/title/tt0697717/'
+wiki: 'https://en.wikipedia.org/wiki/The_Keys_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 23 | |
-|-----------------|--------------------------------|
-| Production code | 321                            |
-| Written by      | Larry Charles |
-| Directed by     | Tom Cherones                   |
-| Air date        | May 6, 1992             |
 
 [TOC]
 

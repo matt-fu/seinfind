@@ -1,16 +1,16 @@
 ---
 title: 'The Nose Job'
+episode: '9'
+pc: '309'
+written: 'Peter Mehlman'
+directed: 'Tom Cherones'
+aired: 'November 20, 1991'
+imdb: 'http://www.imdb.com/title/tt0697740/'
+wiki: 'https://en.wikipedia.org/wiki/The_Nose_Job'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 9 | |
-|-----------------|--------------------------------|
-| Production code | 309                            |
-| Written by      | Peter Mehlman |
-| Directed by     | Tom Cherones                   |
-| Air date        | November 20, 1991             |
 
 [TOC]
 

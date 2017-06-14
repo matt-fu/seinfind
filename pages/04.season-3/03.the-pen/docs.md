@@ -1,16 +1,16 @@
 ---
 title: 'The Pen'
+episode: '3'
+pc: '305'
+written: 'Larry David'
+directed: 'Tom Cherones'
+aired: 'October 2, 1991'
+imdb: 'http://www.imdb.com/title/tt0697749/'
+wiki: 'https://en.wikipedia.org/wiki/The_Pen'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 3 | |
-|-----------------|--------------------------------|
-| Production code | 305                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | October 2, 1991             |
 
 [TOC]
 

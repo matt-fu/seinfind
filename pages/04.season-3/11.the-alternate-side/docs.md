@@ -1,16 +1,16 @@
 ---
 title: 'The Alternate Side'
+episode: '11'
+pc: '310'
+written: 'Larry David and Bill Masters'
+directed: 'Tom Cherones'
+aired: 'December 4, 1991'
+imdb: 'http://www.imdb.com/title/tt0697648/'
+wiki: 'https://en.wikipedia.org/wiki/The_Alternate_Side'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 11 | |
-|-----------------|--------------------------------|
-| Production code | 310                            |
-| Written by      | Larry David and Bill Masters |
-| Directed by     | Tom Cherones                   |
-| Air date        | December 4, 1991             |
 
 [TOC]
 

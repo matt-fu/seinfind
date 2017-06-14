@@ -1,16 +1,16 @@
 ---
 title: 'The Café'
+episode: '7'
+pc: '307'
+written: 'Top Leopold'
+directed: 'Tom Cherones'
+aired: 'November 6, 1991'
+imdb: 'http://www.imdb.com/title/tt0697668/'
+wiki: 'https://en.wikipedia.org/wiki/The_Cafe_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 7 | |
-|-----------------|--------------------------------|
-| Production code | 307                            |
-| Written by      | Tom Leopold |
-| Directed by     | Tom Cherones                   |
-| Air date        | November 6, 1991             |
 
 [TOC]
 

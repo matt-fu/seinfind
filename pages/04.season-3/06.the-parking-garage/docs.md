@@ -1,16 +1,16 @@
 ---
 title: 'The Parking Garage'
+episode: '6'
+pc: '306'
+written: 'Larry David'
+directed: 'Tom Cherones'
+aired: 'October 30, 1991'
+imdb: 'http://www.imdb.com/title/tt0697747/'
+wiki: 'https://en.wikipedia.org/wiki/The_Parking_Garage'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 6 | |
-|-----------------|--------------------------------|
-| Production code | 306                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | October 30, 1991             |
 
 [TOC]
 

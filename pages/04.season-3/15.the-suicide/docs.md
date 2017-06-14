@@ -1,16 +1,16 @@
 ---
 title: 'The Suicide'
+episode: '15'
+pc: '312'
+written: 'Tom Leopold'
+directed: 'Tom Cherones'
+aired: 'January 29, 1992'
+imdb: 'http://www.imdb.com/title/tt0697793/'
+wiki: 'https://en.wikipedia.org/wiki/The_Suicide_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 15 | |
-|-----------------|--------------------------------|
-| Production code | 312                            |
-| Written by      | Tom Leopold |
-| Directed by     | Tom Cherones                   |
-| Air date        | January 29, 1992             |
 
 [TOC]
 

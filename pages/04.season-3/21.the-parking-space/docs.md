@@ -1,16 +1,16 @@
 ---
 title: 'The Parking Space'
+episode: '22'
+pc: '322'
+written: 'Larry David and Greg Daniels'
+directed: 'Tom Cherones'
+aired: 'April 22, 1992'
+imdb: 'http://www.imdb.com/title/tt0697748/'
+wiki: 'https://en.wikipedia.org/wiki/The_Parking_Space'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 22 | |
-|-----------------|--------------------------------|
-| Production code | 322                            |
-| Written by      | Larry David and Greg Daniels |
-| Directed by     | Tom Cherones                   |
-| Air date        | April 22, 1992             |
 
 [TOC]
 

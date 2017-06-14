@@ -1,16 +1,16 @@
 ---
 title: 'The Good Samaritan'
+episode: '20'
+pc: '319'
+written: 'Peter Mehlman'
+directed: 'Jason Alexander'
+aired: 'March 4, 1992'
+imdb: 'http://www.imdb.com/title/tt0697704/'
+wiki: 'https://en.wikipedia.org/wiki/The_Good_Samaritan_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 20 | |
-|-----------------|--------------------------------|
-| Production code | 319                            |
-| Written by      | Peter Mehlman |
-| Directed by     | Jason Alexander                |
-| Air date        | March 4, 1992             |
 
 [TOC]
 
