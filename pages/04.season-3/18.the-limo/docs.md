@@ -2,7 +2,7 @@
 title: 'The Limo'
 episode: '19'
 pc: '318'
-written: '_Story by:_ Marc Jaffe _Teleplay by:_ Larry Charles'
+written: 'Story by: Marc Jaffe | Teleplay by: Larry Charles'
 directed: 'Tom Cherones'
 aired: 'February 26, 1992'
 imdb: 'http://www.imdb.com/title/tt0697722/'
