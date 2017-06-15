@@ -3,11 +3,8 @@ title: 'The Beard'
 taxonomy:
     category:
         - episode
----
-
-| Episode 16 | |
-|-----------------|--------------------------------|
-| Production code | 615                            |
-| Written by      | Carol Leifer |
-| Directed by     | Andy Ackerman                   |
-| Air date        | February 9, 1995                   |
+episode: 16
+pc: 615         
+written: Carol Leifer |
+directed: Andy Ackerman
+aired: February 9, 1995

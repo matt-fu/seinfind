@@ -3,11 +3,8 @@ title: 'The Pledge Drive'
 taxonomy:
     category:
         - episode
----
-
-| Episode 3 | |
-|-----------------|--------------------------------|
-| Production code | 603                            |
-| Written by      | Tom Gammill & Max Pross |
-| Directed by     | Andy Ackerman                   |
-| Air date        | October 6, 1994                   |
+episode: 3
+pc: 603         
+written: Tom Gammill & Max Pross |
+directed: Andy Ackerman
+aired: October 6, 1994

@@ -3,11 +3,8 @@ title: 'The Highlights of 100'
 taxonomy:
     category:
         - episode
----
-
-| Episode 14 & 15 | |
-|-----------------|--------------------------------|
-| Production code | 623 & 624                            |
-| Written by      | Peter Mehlman |
-| Directed by     | Andy Ackerman                   |
-| Air date        | February 2, 1995                   |
+episode: 14 & 15
+pc: 623 & 624         
+written: Peter Mehlman |
+directed: Andy Ackerman
+aired: February 2, 1995

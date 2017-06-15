@@ -3,11 +3,8 @@ title: 'The Jimmy'
 taxonomy:
     category:
         - episode
----
-
-| Episode 19 | |
-|-----------------|--------------------------------|
-| Production code | 617                            |
-| Written by      | Gregg Kavet & Andy Robin |
-| Directed by     | Andy Ackerman                   |
-| Air date        | March 16, 1995                   |
+episode: 19
+pc: 617         
+written: Gregg Kavet & Andy Robin |
+directed: Andy Ackerman
+aired: March 16, 1995

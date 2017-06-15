@@ -3,11 +3,8 @@ title: 'The Kiss Hello'
 taxonomy:
     category:
         - episode
----
-
-| Episode 17 | |
-|-----------------|--------------------------------|
-| Production code | 614                            |
-| Written by      | Larry David & Jerry Seinfeld |
-| Directed by     | Andy Ackerman                   |
-| Air date        | February 16, 1995                   |
+episode: 17
+pc: 614         
+written: Larry David & Jerry Seinfeld |
+directed: Andy Ackerman
+aired: February 16, 1995

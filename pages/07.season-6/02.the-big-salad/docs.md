@@ -3,11 +3,8 @@ title: 'The Big Salad'
 taxonomy:
     category:
         - episode
----
-
-| Episode 2 | |
-|-----------------|--------------------------------|
-| Production code | 602                            |
-| Written by      | Larry David |
-| Directed by     | Andy Ackerman                   |
-| Air date        | September 29, 1994                   |
+episode: 2
+pc: 602         
+written: Larry David |
+directed: Andy Ackerman
+aired: September 29, 1994
