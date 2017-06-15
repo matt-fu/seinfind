@@ -5,6 +5,7 @@ taxonomy:
         - episode
 episode: 13
 pc: 514         
-written: Larry David |
+written: Larry David
 directed: Tom Cherones
-aired: February 3, 1994               |
+aired: February 3, 1994
+---

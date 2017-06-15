@@ -8,3 +8,4 @@ pc: 506
 written: Carol Leifer |
 directed: Tom Cherones
 aired: October 28, 1993
+---

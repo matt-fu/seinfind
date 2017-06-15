@@ -8,3 +8,4 @@ pc: 518
 written: Larry Charles                  |
 directed: Tom Cherones
 aired: May 5, 1994
+---

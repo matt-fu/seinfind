@@ -5,6 +5,7 @@ taxonomy:
         - episode
 episode: 8
 pc: 507         
-written: Andy Robin |
+written: Andy Robin
 directed: Tom Cherones
-aired: November 11, 1993              |
+aired: November 11, 1993
+---

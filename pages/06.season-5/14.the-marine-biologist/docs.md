@@ -8,3 +8,4 @@ pc: 513
 written: Ron Hauge & Charlie Rubin |
 directed: Tom Cherones
 aired: February 10, 1994
+---
