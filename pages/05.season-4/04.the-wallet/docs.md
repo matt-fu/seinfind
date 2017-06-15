@@ -3,14 +3,12 @@ title: 'The Wallet'
 taxonomy:
     category:
         - episode
+episode: 5
+pc: 405         
+written: Larry David
+written: Tom Cherones
+aired: September 23, 1992
 ---
-
-| Episode 5 | |
-|-----------------|--------------------------------|
-| Production code | 405                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | September 23, 1992                |
 
 [TOC]
 
