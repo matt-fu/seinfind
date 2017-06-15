@@ -6,7 +6,7 @@ taxonomy:
 episode: 5
 pc: 405         
 written: Larry David
-written: Tom Cherones
+directed: Tom Cherones
 aired: September 23, 1992
 ---
 

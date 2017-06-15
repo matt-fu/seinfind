@@ -3,14 +3,12 @@ title: 'The Contest'
 taxonomy:
     category:
         - episode
+episode: 11
+pc: 411         
+written: Larry David
+directed: Tom Cherones
+aired: November 18, 1992
 ---
-
-| Episode 11 | |
-|-----------------|--------------------------------|
-| Production code | 411                            |
-| Written by      | Larry David  |
-| Directed by     | Tom Cherones                   |
-| Air date        | November 18, 1992                   |
 
 [TOC]
 

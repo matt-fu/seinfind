@@ -1,16 +1,16 @@
 ---
 title: 'The Trip'
+episode: '1 & 2'
+pc: '401 & 402'
+written: 'Larry Charles'
+directed: 'Tom Cherones'
+aired: 'August 12, 1992'
+imdb: 'http://www.imdb.com/title/tt0697799/'
+wiki: 'https://en.wikipedia.org/wiki/The_Trip_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 1 & 2 | |
-|-----------------|--------------------------------|
-| Production code | 401 & 402                      |
-| Written by      | Larry Charles |
-| Directed by     | Tom Cherones                   |
-| Air date        | August 12, 1992                |
 
 [TOC]
 

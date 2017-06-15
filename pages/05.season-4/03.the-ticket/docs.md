@@ -1,16 +1,16 @@
 ---
 title: 'The Ticket'
+episode: '4'
+pc: '404'
+written: Larry David
+directed: Tom Cherones
+aired: September 16, 1992   
+imdb:
+wiki:
 taxonomy:
     category:
         - episode
 ---
-
-| Episode 4 | |
-|-----------------|--------------------------------|
-| Production code | 404                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | September 16, 1992                |
 
 [TOC]
 

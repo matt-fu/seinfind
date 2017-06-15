@@ -3,14 +3,12 @@ title: 'The Pick'
 taxonomy:
     category:
         - episode
+episode: 13
+pc: 413         
+written: Story by: Larry David and Marc Jaffe | Teleplay by: Larry David
+directed: Tom Cherones
+aired: December 16, 1992
 ---
-
-| Episode 13 | |
-|-----------------|--------------------------------|
-| Production code | 413                            |
-| Written by      | _Story by:_ Larry David and Marc Jaffe _Teleplay by:_ Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | December 16, 1992                   |
 
 [TOC]
 

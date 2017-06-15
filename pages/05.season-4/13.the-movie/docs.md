@@ -3,14 +3,13 @@ title: 'The Movie'
 taxonomy:
     category:
         - episode
+episode: 14
+pc: 415         
+written: Steve Skrovan & Bill Masters & Jon Hayman
+directed: Tom Cherones
+aired: January 6, 1993
 ---
 
-| Episode 14 | |
-|-----------------|--------------------------------|
-| Production code | 415                            |
-| Written by      | Steve Skrovan & Bill Masters & Jon Hayman |
-| Directed by     | Tom Cherones                   |
-| Air date        | January 6, 1993                   |
 [TOC]
 
 "The Movie" is the 54th episode of the sitcom Seinfeld. It is the 14th episode of the fourth season, and first aired on January 6, 1993.

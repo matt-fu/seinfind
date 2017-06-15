@@ -3,14 +3,12 @@ title: 'The Handicap Spot'
 taxonomy:
     category:
         - episode
+episode: 22
+pc: 420
+written: Larry David
+directed: Tom Cherones
+aired: May 13, 1993
 ---
-
-| Episode 22 | |
-|-----------------|--------------------------------|
-| Production code | 420                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | May 13, 1993                   |
 
 [TOC]
 

@@ -1,16 +1,23 @@
 ---
 title: 'The Pitch'
+episode: '3'
+pc: '403'
+written: 'Larry David'
+directed: 'Tom Cherones'
+aired: 'September 16, 1992'
+imdb: 'http://www.imdb.com/title/tt0697755/'
+wiki: 'https://en.wikipedia.org/wiki/The_Pitch_(Seinfeld)'
 taxonomy:
     category:
         - episode
 ---
 
-| Episode 3 | |
-|-----------------|--------------------------------|
-| Production code | 403                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | September 16, 1992                |
+episode: 3 
+
+pc: 403         
+written: Larry David |
+directed: Tom Cherones
+aired: September 16, 1992                |
 
 [TOC]
 

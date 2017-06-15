@@ -3,14 +3,12 @@ title: 'The Junior Mint'
 taxonomy:
     category:
         - episode
+episode: 20
+pc: 421         
+written: Andy Robin
+directed: Tom Cherones
+aired: March 18, 1993
 ---
-
-| Episode 20 | |
-|-----------------|--------------------------------|
-| Production code | 421                            |
-| Written by      | Andy Robin |
-| Directed by     | Tom Cherones                   |
-| Air date        | March 18, 1993                   |
 
 [TOC]
 

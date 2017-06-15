@@ -3,14 +3,12 @@ title: 'The Implant'
 taxonomy:
     category:
         - episode
+episode: 19
+pc: 419         
+written: Peter Mehlman
+directed: Tom Cherones
+aired: February 25, 1993
 ---
-
-| Episode 19 | |
-|-----------------|--------------------------------|
-| Production code | 419                            |
-| Written by      | Peter Mehlman |
-| Directed by     | Tom Cherones                   |
-| Air date        | February 25, 1993                   |
 
 [TOC]
 

@@ -3,14 +3,12 @@ title: 'The Opera'
 taxonomy:
     category:
         - episode
+episode: 9
+pc: 409         
+written: Larry Charles
+directed: Tom Cherones
+aired: November 4, 1992
 ---
-
-| Episode 9 | |
-|-----------------|--------------------------------|
-| Production code | 409                            |
-| Written by      | Larry Charles |
-| Directed by     | Tom Cherones                   |
-| Air date        | November 4, 1992                   |
 
 [TOC]
 

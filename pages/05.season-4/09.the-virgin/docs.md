@@ -3,14 +3,12 @@ title: 'The Virgin'
 taxonomy:
     category:
         - episode
+episode: 10
+pc: 410         
+written: Story by: Peter Mehlman and Peter Farrelly & Bob Farrelly | Teleplay by: Peter Mehlman
+directed: Tom Cherones
+aired: November 11, 1992
 ---
-
-| Episode 10 | |
-|-----------------|--------------------------------|
-| Production code | 410                            |
-| Written by      | _Story by:_ Peter Mehlman and Peter Farrelly & Bob Farrelly _Teleplay by:_ Peter Mehlman |
-| Directed by     | Tom Cherones                   |
-| Air date        | November 11, 1992                   |
 
 [TOC]
 

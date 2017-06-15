@@ -3,14 +3,12 @@ title: 'The Outing'
 taxonomy:
     category:
         - episode
+episode: 17
+pc: 416         
+written: Larry Charles
+directed: Tom Cherones
+aired: February 11, 1993
 ---
-
-| Episode 17 | |
-|-----------------|--------------------------------|
-| Production code | 416                            |
-| Written by      | Larry Charles |
-| Directed by     | Tom Cherones                   |
-| Air date        | February 11, 1993                   |
 
 [TOC]
 

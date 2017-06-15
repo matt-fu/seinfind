@@ -3,14 +3,12 @@ title: 'The Watch'
 taxonomy:
     category:
         - episode
+episode: 6
+pc: 406         
+written: Larry David
+directed: Tom Cherones
+aired: September 30, 1992
 ---
-
-| Episode 6 | |
-|-----------------|--------------------------------|
-| Production code | 406                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | September 30, 1992                   |
 
 [TOC]
 

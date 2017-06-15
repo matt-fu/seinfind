@@ -3,14 +3,12 @@ title: 'The Bubble Boy'
 taxonomy:
     category:
         - episode
+episode: 7
+pc: 407         
+written: Larry David & Larry Charles
+directed: Tom Cherones
+aired: October 7, 1992
 ---
-
-| Episode 7 | |
-|-----------------|--------------------------------|
-| Production code | 407                            |
-| Written by      | Larry David & Larry Charles |
-| Directed by     | Tom Cherones                   |
-| Air date        | October 7, 1992                   |
 
 [TOC]
 
