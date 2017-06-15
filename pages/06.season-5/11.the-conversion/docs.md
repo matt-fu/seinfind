@@ -3,11 +3,8 @@ title: 'The Conversion'
 taxonomy:
     category:
         - episode
----
-
-| Episode 11 | |
-|-----------------|--------------------------------|
-| Production code | 511                            |
-| Written by      | Bruce Kirschbaum |
-| Directed by     | Tom Cherones                   |
-| Air date        | December 16, 1993                   |
+episode: 11
+pc: 511         
+written: Bruce Kirschbaum |
+directed: Tom Cherones
+aired: December 16, 1993

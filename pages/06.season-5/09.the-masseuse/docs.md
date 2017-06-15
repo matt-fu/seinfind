@@ -3,11 +3,8 @@ title: 'The Masseuse'
 taxonomy:
     category:
         - episode
----
-
-| Episode 9 | |
-|-----------------|--------------------------------|
-| Production code | 509                            |
-| Written by      | Peter Mehlman |
-| Directed by     | Tom Cherones                   |
-| Air date        | November 18, 1993                   |
+episode: 9
+pc: 509         
+written: Peter Mehlman |
+directed: Tom Cherones
+aired: November 18, 1993

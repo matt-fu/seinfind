@@ -3,11 +3,8 @@ title: 'The Pie'
 taxonomy:
     category:
         - episode
----
-
-| Episode 15 | |
-|-----------------|--------------------------------|
-| Production code | 515                            |
-| Written by      | Tom Gammill & Max Pross |
-| Directed by     | Tom Cherones                   |
-| Air date        | February 17, 1994                   |
+episode: 15
+pc: 515         
+written: Tom Gammill & Max Pross |
+directed: Tom Cherones
+aired: February 17, 1994

@@ -3,11 +3,8 @@ title: 'The Lip Reader'
 taxonomy:
     category:
         - episode
----
-
-| Episode 6 | |
-|-----------------|--------------------------------|
-| Production code | 506                            |
-| Written by      | Carol Leifer |
-| Directed by     | Tom Cherones                   |
-| Air date        | October 28, 1993                   |
+episode: 6
+pc: 506         
+written: Carol Leifer |
+directed: Tom Cherones
+aired: October 28, 1993

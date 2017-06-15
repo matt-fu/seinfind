@@ -3,11 +3,8 @@ title: 'The Fire'
 taxonomy:
     category:
         - episode
----
-
-| Episode 20 | |
-|-----------------|--------------------------------|
-| Production code | 518                            |
-| Written by      | Larry Charles                  |
-| Directed by     | Tom Cherones                   |
-| Air date        | May 5, 1994                    |
+episode: 20
+pc: 518         
+written: Larry Charles                  |
+directed: Tom Cherones
+aired: May 5, 1994

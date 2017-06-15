@@ -3,11 +3,8 @@ title: 'The Stand-In'
 taxonomy:
     category:
         - episode
----
-
-| Episode 16 | |
-|-----------------|--------------------------------|
-| Production code | 516                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | February 24, 1994                   |
+episode: 16
+pc: 516         
+written: Larry David |
+directed: Tom Cherones
+aired: February 24, 1994

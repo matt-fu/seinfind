@@ -3,11 +3,8 @@ title: 'The Opposite'
 taxonomy:
     category:
         - episode
----
-
-| Episode 2 | |
-|-----------------|--------------------------------|
-| Production code | 521                            |
-| Written by      | Andy Cowan and Larry David & Jerry Seinfeld |
-| Directed by     | Tom Cherones                   |
-| Air date        | May 19, 1994                   |
+episode: 2
+pc: 521         
+written: Andy Cowan and Larry David & Jerry Seinfeld |
+directed: Tom Cherones
+aired: May 19, 1994

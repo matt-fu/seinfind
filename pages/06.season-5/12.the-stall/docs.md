@@ -3,11 +3,8 @@ title: 'The Stall'
 taxonomy:
     category:
         - episode
----
-
-| Episode 12 | |
-|-----------------|--------------------------------|
-| Production code | 512                            |
-| Written by      | Larry Charles |
-| Directed by     | Tom Cherones                   |
-| Air date        | January 6, 1994                   |
+episode: 12
+pc: 512         
+written: Larry Charles |
+directed: Tom Cherones
+aired: January 6, 1994

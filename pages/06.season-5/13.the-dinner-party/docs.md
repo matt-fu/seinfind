@@ -3,11 +3,8 @@ title: 'The Dinner Party'
 taxonomy:
     category:
         - episode
----
-
-| Episode 13 | |
-|-----------------|--------------------------------|
-| Production code | 514                            |
-| Written by      | Larry David |
-| Directed by     | Tom Cherones                   |
-| Air date        | February 3, 1994               |
+episode: 13
+pc: 514         
+written: Larry David |
+directed: Tom Cherones
+aired: February 3, 1994               |

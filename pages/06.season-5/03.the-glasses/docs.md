@@ -3,11 +3,8 @@ title: 'The Glasses'
 taxonomy:
     category:
         - episode
----
-
-| Episode 3 | |
-|-----------------|--------------------------------|
-| Production code | 502                      |
-| Written by      | Tom Gammill & Max Pross                    |
-| Directed by     | Tom Cherones                   |
-| Air date        | September 30, 1993                   |
+episode: 3
+pc: 502   
+written: Tom Gammill & Max Pross
+directed: Tom Cherones
+aired: September 30, 1993
