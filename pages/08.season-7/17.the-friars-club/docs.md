@@ -3,11 +3,11 @@ title: 'The Friars Club'
 taxonomy:
     category:
         - episode
+episode: 18 
+pc: 718         
+written: David Mandel |
+directed: Andy Ackerman
+aired: March 7, 1996
+imdb: 
+wiki: 
 ---
-
-| Episode 18 | |
-|-----------------|--------------------------------|
-| Production code | 718                            |
-| Written by      | David Mandel |
-| Directed by     | Andy Ackerman                   |
-| Air date        | March 7, 1996                   |

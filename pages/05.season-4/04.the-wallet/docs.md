@@ -3,11 +3,11 @@ title: 'The Wallet'
 taxonomy:
     category:
         - episode
-episode: 5
-pc: 405         
+episode: 5pc: 405         
 written: Larry David
 directed: Tom Cherones
 aired: September 23, 1992
+imdb:
 ---
 
 [TOC]

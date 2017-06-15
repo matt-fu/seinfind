@@ -1,7 +1,6 @@
 ---
 title: 'The Boyfriend'
-episode: '17 & 18'
-pc: '315 & 316'
+episode: '17 & 18'pc: '315 & 316'
 written: 'Larry David and Larry Levin'
 directed: 'Tom Cherones'
 aired: 'February 12, 1992'

@@ -3,11 +3,11 @@ title: 'The Shower Head'
 taxonomy:
     category:
         - episode
+episode: 16 
+pc: 715         
+written: Peter Mehlman & Marjorie Gross |
+directed: Andy Ackerman
+aired: February 15, 1996
+imdb: 
+wiki: 
 ---
-
-| Episode 16 | |
-|-----------------|--------------------------------|
-| Production code | 715                            |
-| Written by      | Peter Mehlman & Marjorie Gross |
-| Directed by     | Andy Ackerman                   |
-| Air date        | February 15, 1996                   |

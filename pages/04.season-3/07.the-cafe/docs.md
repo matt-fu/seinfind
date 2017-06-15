@@ -1,7 +1,6 @@
 ---
 title: 'The Café'
-episode: '7'
-pc: '307'
+episode: '7'pc: '307'
 written: 'Top Leopold'
 directed: 'Tom Cherones'
 aired: 'November 6, 1991'

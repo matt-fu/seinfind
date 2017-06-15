@@ -3,11 +3,11 @@ title: 'The Apology'
 taxonomy:
     category:
         - episode
+episode: 9 
+pc: 909         
+written: Jennifer Crittenden |
+directed: Andy Ackerman
+aired: December 11, 1997
+imdb: 
+wiki: 
 ---
-
-| Episode 9 | |
-|-----------------|--------------------------------|
-| Production code | 909                            |
-| Written by      | Jennifer Crittenden |
-| Directed by     | Andy Ackerman                   |
-| Air date        | December 11, 1997                   |

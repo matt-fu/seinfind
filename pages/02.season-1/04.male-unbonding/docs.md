@@ -1,7 +1,6 @@
 ---
 title: 'Male Unbonding'
-episode: '4'
-pc: '102'
+episode: '4'pc: '102'
 written: 'Jerry Seinfeld and Larry David'
 directed: 'Tom Cherones'
 aired: 'June 14, 1990'

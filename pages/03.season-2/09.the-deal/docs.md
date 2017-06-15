@@ -1,7 +1,6 @@
 ---
 title: 'The Deal'
-episode: '9'
-pc: '213'
+episode: '9'pc: '213'
 written: 'Larry David'
 directed: 'Tom Cherones'
 aired: 'May 2, 1991'

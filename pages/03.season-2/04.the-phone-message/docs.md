@@ -1,7 +1,6 @@
 ---
 title: 'The Phone Message'
-episode: '4'
-pc: '207'
+episode: '4'pc: '207'
 written: 'Larry David and Jerry Seinfeld'
 directed: 'Tom Cherones'
 aired: 'February 13, 1991'

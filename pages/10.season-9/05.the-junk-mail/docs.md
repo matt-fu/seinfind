@@ -3,11 +3,11 @@ title: 'The Junk Mail'
 taxonomy:
     category:
         - episode
+episode: 5 
+pc: 103         
+written: Spike Feresten |
+directed: Andy Ackerman
+aired: October 30, 1997
+imdb: 
+wiki: 
 ---
-
-| Episode 5 | |
-|-----------------|--------------------------------|
-| Production code | 103                            |
-| Written by      | Spike Feresten |
-| Directed by     | Andy Ackerman                   |
-| Air date        | October 30, 1997                   |

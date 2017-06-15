@@ -1,7 +1,6 @@
 ---
 title: 'The Jacket'
-episode: '3'
-pc: '205'
+episode: '3'pc: '205'
 written: 'Larry David and Jerry Seinfeld'
 directed: 'Tom Cherones'
 aired: 'February 6, 1991'

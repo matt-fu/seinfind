@@ -3,11 +3,11 @@ title: 'The Money'
 taxonomy:
     category:
         - episode
+episode: 12 
+pc: 813         
+written: Peter Mehlman |
+directed: Andy Ackerman
+aired: January 16, 1997
+imdb: 
+wiki: 
 ---
-
-| Episode 12 | |
-|-----------------|--------------------------------|
-| Production code | 813                            |
-| Written by      | Peter Mehlman |
-| Directed by     | Andy Ackerman                   |
-| Air date        | January 16, 1997                   |

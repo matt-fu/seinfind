@@ -3,11 +3,8 @@ title: 'The Strongbox'
 taxonomy:
     category:
         - episode
----
-
-| Episode 14 | |
-|-----------------|--------------------------------|
-| Production code | 914                            |
-| Written by      | _Story by:_ Dan O'Keefe & Billy Kimball _Teleplay by:_ Dan O'Keefe |
-| Directed by     | Andy Ackerman                  |
-| Air date        | February 5, 1998               |
+episode: 14 
+pc: 914         
+written: _Story by:_ Dan O'Keefe & Billy Kimball _Teleplay by:_ Dan O'Keefe |
+directed: Andy Ackerman                  |
+aired: February 5, 1998               |

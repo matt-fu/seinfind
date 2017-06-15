@@ -1,7 +1,6 @@
 ---
 title: 'The Apartment'
-episode: '5'
-pc: '208'
+episode: '5'pc: '208'
 written: 'Peter Mehlman'
 directed: 'Tom Cherones'
 aired: 'April 4, 1991'

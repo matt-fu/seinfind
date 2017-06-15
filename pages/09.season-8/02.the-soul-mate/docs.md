@@ -3,11 +3,11 @@ title: 'The Soul Mate'
 taxonomy:
     category:
         - episode
+episode: 2 
+pc: 802         
+written: Peter Mehlman |
+directed: Andy Ackerman
+aired: September 26, 1996
+imdb: 
+wiki: 
 ---
-
-| Episode 2 | |
-|-----------------|--------------------------------|
-| Production code | 802                            |
-| Written by      | Peter Mehlman |
-| Directed by     | Andy Ackerman                   |
-| Air date        | September 26, 1996                   |

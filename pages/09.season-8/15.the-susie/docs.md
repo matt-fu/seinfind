@@ -3,11 +3,11 @@ title: 'The Susie'
 taxonomy:
     category:
         - episode
+episode: 15 
+pc: 815         
+written: David Mandel |
+directed: Andy Ackerman
+aired: February 13, 1997
+imdb: 
+wiki: 
 ---
-
-| Episode 15 | |
-|-----------------|--------------------------------|
-| Production code | 815                            |
-| Written by      | David Mandel |
-| Directed by     | Andy Ackerman                   |
-| Air date        | February 13, 1997                   |

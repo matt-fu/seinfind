@@ -3,11 +3,11 @@ title: 'The Engagement'
 taxonomy:
     category:
         - episode
+episode: 1 
+pc: 701         
+written: Larry David |
+directed: Andy Ackerman
+aired: September 21, 1995
+imdb: 
+wiki: 
 ---
-
-| Episode 1 | |
-|-----------------|--------------------------------|
-| Production code | 701                            |
-| Written by      | Larry David |
-| Directed by     | Andy Ackerman                   |
-| Air date        | September 21, 1995                   |

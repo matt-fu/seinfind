@@ -1,7 +1,6 @@
 ---
 title: 'The Fix-Up'
-episode: '16'
-pc: '317'
+episode: '16'pc: '317'
 written: 'Elaine Pope & Larry Charles'
 directed: 'Tom Cherones'
 aired: 'February 5, 1992'

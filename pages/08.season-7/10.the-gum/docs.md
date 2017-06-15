@@ -3,11 +3,11 @@ title: 'The Gum'
 taxonomy:
     category:
         - episode
+episode: 10 
+pc: 710         
+written: Tom Gammill & Max Pross |
+directed: Andy Ackerman
+aired: December 14, 1995
+imdb: 
+wiki: 
 ---
-
-| Episode 10 | |
-|-----------------|--------------------------------|
-| Production code | 710                            |
-| Written by      | Tom Gammill & Max Pross |
-| Directed by     | Andy Ackerman                   |
-| Air date        | December 14, 1995                   |

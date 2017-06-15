@@ -3,11 +3,12 @@ title: 'The Shoes'
 taxonomy:
     category:
         - episode
-episode: 16
-pc: 417         
+episode: 16pc: 417         
 written: Larry David & Jerry Seinfeld
 directed: Tom Cherones
 aired: February 4, 1993
+imdb: 
+wiki: 
 ---
 
 [TOC]

@@ -3,11 +3,11 @@ title: 'The Doll'
 taxonomy:
     category:
         - episode
+episode: 17 
+pc: 716         
+written: Tom Gammill & Max Pross |
+directed: Andy Ackerman
+aired: February 22, 1996
+imdb: 
+wiki: 
 ---
-
-| Episode 17 | |
-|-----------------|--------------------------------|
-| Production code | 716                            |
-| Written by      | Tom Gammill & Max Pross |
-| Directed by     | Andy Ackerman                   |
-| Air date        | February 22, 1996                   |

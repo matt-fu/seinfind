@@ -3,11 +3,8 @@ title: 'The Voice'
 taxonomy:
     category:
         - episode
----
-
-| Episode 2 | |
-|-----------------|------------------------------------------|
-| Production code | 902                                      |
-| Written by      | Alec Berg & Jeff Schaffer & David Mandel |
-| Directed by     | Andy Ackerman                            |
-| Air date        | October 2, 1997                          |
+episode: 2 
+|-----------------|------------------------------------------|pc: 902                   
+written: Alec Berg & Jeff Schaffer & David Mandel |
+directed: Andy Ackerman         
+aired: October 2, 1997       

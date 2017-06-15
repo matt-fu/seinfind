@@ -1,7 +1,6 @@
 ---
 title: 'The Stake Out'
-episode: '2'
-pc: '103'
+episode: '2'pc: '103'
 written: 'Larry David and Jerry Seinfeld'
 directed: 'Tom Cherones'
 aired: 'May 31, 1990'

@@ -1,7 +1,6 @@
 ---
 title: 'The Heart Attack'
-episode: '8'
-pc: '211'
+episode: '8'pc: '211'
 written: 'Larry Charles'
 directed: 'Tom Cherones'
 aired: 'April 25, 1991'

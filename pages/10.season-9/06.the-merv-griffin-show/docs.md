@@ -3,11 +3,11 @@ title: 'The Merv Griffin Show'
 taxonomy:
     category:
         - episode
+episode: 6 
+pc: 906         
+written: Bruce Eric Kaplan |
+directed: Andy Ackerman
+aired: November 6, 1997
+imdb: 
+wiki: 
 ---
-
-| Episode 6 | |
-|-----------------|--------------------------------|
-| Production code | 906                            |
-| Written by      | Bruce Eric Kaplan |
-| Directed by     | Andy Ackerman                   |
-| Air date        | November 6, 1997                   |

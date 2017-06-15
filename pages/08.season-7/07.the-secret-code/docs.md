@@ -3,11 +3,11 @@ title: 'The Secret Code'
 taxonomy:
     category:
         - episode
+episode: 7 
+pc: 707         
+written: Alec Berg & Jeff Schaffer |
+directed: Andy Ackerman
+aired: November 9, 1995
+imdb: 
+wiki: 
 ---
-
-| Episode 7 | |
-|-----------------|--------------------------------|
-| Production code | 707                            |
-| Written by      | Alec Berg & Jeff Schaffer |
-| Directed by     | Andy Ackerman                   |
-| Air date        | November 9, 1995                   |

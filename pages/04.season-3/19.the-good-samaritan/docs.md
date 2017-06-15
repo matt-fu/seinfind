@@ -1,7 +1,6 @@
 ---
 title: 'The Good Samaritan'
-episode: '20'
-pc: '319'
+episode: '20'pc: '319'
 written: 'Peter Mehlman'
 directed: 'Jason Alexander'
 aired: 'March 4, 1992'

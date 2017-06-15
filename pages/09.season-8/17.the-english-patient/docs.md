@@ -3,11 +3,11 @@ title: 'The English Patient'
 taxonomy:
     category:
         - episode
+episode: 17 
+pc: 817         
+written: Steve Koren |
+directed: Andy Ackerman
+aired: March 13, 1997
+imdb: 
+wiki: 
 ---
-
-| Episode 17 | |
-|-----------------|--------------------------------|
-| Production code | 817                            |
-| Written by      | Steve Koren |
-| Directed by     | Andy Ackerman                   |
-| Air date        | March 13, 1997                   |

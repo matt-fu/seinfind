@@ -1,7 +1,6 @@
 ---
 title: 'The Pony Remark'
-episode: '2'
-pc: '202'
+episode: '2'pc: '202'
 written: 'Larry David and Jerry Seinfeld'
 directed: 'Tom Cherones'
 aired: 'January 30, 1991'

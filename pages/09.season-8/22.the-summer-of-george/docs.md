@@ -3,11 +3,11 @@ title: 'The Summer of George'
 taxonomy:
     category:
         - episode
+episode: 22 
+pc: 822         
+written: Alec Berg & Jeff Schaffer |
+directed: Andy Ackerman
+aired: May 15, 1997
+imdb: 
+wiki: 
 ---
-
-| Episode 22 | |
-|-----------------|--------------------------------|
-| Production code | 822                            |
-| Written by      | Alec Berg & Jeff Schaffer |
-| Directed by     | Andy Ackerman                   |
-| Air date        | May 15, 1997                   |

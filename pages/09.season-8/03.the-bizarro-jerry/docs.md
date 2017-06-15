@@ -3,11 +3,11 @@ title: 'The Bizarro Jerry'
 taxonomy:
     category:
         - episode
+episode: 3 
+pc: 803         
+written: David Mandel |
+directed: Andy Ackerman
+aired: October 3, 1996
+imdb: 
+wiki: 
 ---
-
-| Episode 3 | |
-|-----------------|--------------------------------|
-| Production code | 803                            |
-| Written by      | David Mandel |
-| Directed by     | Andy Ackerman                   |
-| Air date        | October 3, 1996                   |

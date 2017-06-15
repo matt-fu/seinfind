@@ -3,11 +3,11 @@ title: 'The Package'
 taxonomy:
     category:
         - episode
+episode: 5 
+pc: 805         
+written: Jennifer Crittenden |
+directed: Andy Ackerman
+aired: October 17, 1996
+imdb: 
+wiki: 
 ---
-
-| Episode 5 | |
-|-----------------|--------------------------------|
-| Production code | 805                            |
-| Written by      | Jennifer Crittenden |
-| Directed by     | Andy Ackerman                   |
-| Air date        | October 17, 1996                   |

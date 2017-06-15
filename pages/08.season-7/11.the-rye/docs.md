@@ -3,11 +3,11 @@ title: 'The Rye'
 taxonomy:
     category:
         - episode
+episode: 11 
+pc: 711         
+written: Carol Leifer |
+directed: Andy Ackerman
+aired: January 4, 1996
+imdb: 
+wiki: 
 ---
-
-| Episode 11 | |
-|-----------------|--------------------------------|
-| Production code | 711                            |
-| Written by      | Carol Leifer |
-| Directed by     | Andy Ackerman                   |
-| Air date        | January 4, 1996                   |

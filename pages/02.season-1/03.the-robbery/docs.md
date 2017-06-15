@@ -1,7 +1,6 @@
 ---
 title: 'The Robbery'
-episode: '3'
-pc: '104'
+episode: '3'pc: '104'
 written: 'Matt Goldman'
 directed: 'Art Wolff'
 aired: 'June 7, 1990'

@@ -3,11 +3,12 @@ title: 'The Opera'
 taxonomy:
     category:
         - episode
-episode: 9
-pc: 409         
+episode: 9pc: 409         
 written: Larry Charles
 directed: Tom Cherones
 aired: November 4, 1992
+imdb: 
+wiki: 
 ---
 
 [TOC]

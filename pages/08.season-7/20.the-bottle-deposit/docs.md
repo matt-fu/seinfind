@@ -3,11 +3,11 @@ title: 'The Bottle Deposit'
 taxonomy:
     category:
         - episode
+episode: 21 & 22 
+pc: 721 & 722   
+written: Gregg Kavet & Andy Robin |
+directed: Andy Ackerman
+aired: May 2, 1996
+imdb: 
+wiki: 
 ---
-
-| Episode 21 & 22 | |
-|-----------------|--------------------------------|
-| Production code | 721 & 722                      |
-| Written by      | Gregg Kavet & Andy Robin |
-| Directed by     | Andy Ackerman                   |
-| Air date        | May 2, 1996                   |

@@ -3,11 +3,11 @@ title: 'The Van Buren Boys'
 taxonomy:
     category:
         - episode
+episode: 14 
+pc: 814         
+written: Darin Henry |
+directed: Andy Ackerman
+aired: February 6, 1997
+imdb: 
+wiki: 
 ---
-
-| Episode 14 | |
-|-----------------|--------------------------------|
-| Production code | 814                            |
-| Written by      | Darin Henry |
-| Directed by     | Andy Ackerman                   |
-| Air date        | February 6, 1997                   |

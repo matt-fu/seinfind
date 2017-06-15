@@ -1,7 +1,6 @@
 ---
 title: 'The Chinese Restaurant'
-episode: '11'
-pc: '206'
+episode: '11'pc: '206'
 written: 'Larry David and Jerry Seinfeld'
 directed: 'Tom Cherones'
 aired: 'May 23, 1991'

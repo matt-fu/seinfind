@@ -1,7 +1,6 @@
 ---
 title: 'The Baby Shower'
-episode: '10'
-pc: '204'
+episode: '10'pc: '204'
 written: 'Larry Charles'
 directed: 'Tom Cherones'
 aired: 'May 16, 1991'

@@ -1,7 +1,6 @@
 ---
 title: 'The Revenge'
-episode: '7'
-pc: '212'
+episode: '7'pc: '212'
 written: 'Larry David'
 directed: 'Tom Cherones'
 aired: 'April 18, 1991'

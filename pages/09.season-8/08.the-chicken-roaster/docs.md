@@ -3,11 +3,11 @@ title: 'The Chicken Roaster'
 taxonomy:
     category:
         - episode
+episode: 8 
+pc: 808         
+written: Alec Berg & Jeff Schaffer |
+directed: Andy Ackerman
+aired: November 14, 1996
+imdb: 
+wiki: 
 ---
-
-| Episode 8 | |
-|-----------------|--------------------------------|
-| Production code | 808                            |
-| Written by      | Alec Berg & Jeff Schaffer |
-| Directed by     | Andy Ackerman                   |
-| Air date        | November 14, 1996                   |

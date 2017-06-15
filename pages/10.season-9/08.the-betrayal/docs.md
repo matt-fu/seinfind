@@ -3,11 +3,8 @@ title: 'The Betrayal'
 taxonomy:
     category:
         - episode
----
-
-| Episode 8 | |
-|-----------------|------------------------------|
-| Production code | 908                          |
-| Written by      | David Mandel & Peter Mehlman |
-| Directed by     | Andy Ackerman                |
-| Air date        | November 20, 1997            |
+episode: 8 
+|-----------------|------------------------------|pc: 908       
+written: David Mandel & Peter Mehlman |
+directed: Andy Ackerman                |
+aired: November 20, 1997            |

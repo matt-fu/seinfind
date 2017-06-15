@@ -3,11 +3,11 @@ title: 'The Checks'
 taxonomy:
     category:
         - episode
+episode: 7 
+pc: 807         
+written: Steve O'Donnell and Tom Gammill & Max Pross |
+directed: Andy Ackerman
+aired: November 7, 1996
+imdb: 
+wiki: 
 ---
-
-| Episode 7 | |
-|-----------------|--------------------------------|
-| Production code | 807                            |
-| Written by      | Steve O'Donnell and Tom Gammill & Max Pross |
-| Directed by     | Andy Ackerman                   |
-| Air date        | November 7, 1996                   |

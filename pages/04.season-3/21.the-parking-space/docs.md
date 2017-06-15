@@ -1,7 +1,6 @@
 ---
 title: 'The Parking Space'
-episode: '22'
-pc: '322'
+episode: '22'pc: '322'
 written: 'Larry David and Greg Daniels'
 directed: 'Tom Cherones'
 aired: 'April 22, 1992'

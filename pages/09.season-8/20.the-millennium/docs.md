@@ -3,11 +3,11 @@ title: 'The Millennium'
 taxonomy:
     category:
         - episode
+episode: 20 
+pc: 820         
+written: Jennifer Crittenden |
+directed: Andy Ackerman
+aired: May 1, 1997
+imdb: 
+wiki: 
 ---
-
-| Episode 20 | |
-|-----------------|--------------------------------|
-| Production code | 820                            |
-| Written by      | Jennifer Crittenden |
-| Directed by     | Andy Ackerman                   |
-| Air date        | May 1, 1997                   |

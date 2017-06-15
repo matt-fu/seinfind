@@ -3,11 +3,11 @@ title: 'The Cartoon'
 taxonomy:
     category:
         - episode
+episode: 13 
+pc: 913         
+written: Bruce Eric Kaplan |
+directed: Andy Ackerman
+aired: January 29, 1998
+imdb: 
+wiki: 
 ---
-
-| Episode 13 | |
-|-----------------|--------------------------------|
-| Production code | 913                            |
-| Written by      | Bruce Eric Kaplan |
-| Directed by     | Andy Ackerman                   |
-| Air date        | January 29, 1998                   |

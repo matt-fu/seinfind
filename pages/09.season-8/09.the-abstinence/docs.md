@@ -3,11 +3,11 @@ title: 'The Abstinence'
 taxonomy:
     category:
         - episode
+episode: 9 
+pc: 809         
+written: Steve Koren |
+directed: Andy Ackerman
+aired: November 21, 1996
+imdb: 
+wiki: 
 ---
-
-| Episode 9 | |
-|-----------------|--------------------------------|
-| Production code | 809                            |
-| Written by      | Steve Koren |
-| Directed by     | Andy Ackerman                   |
-| Air date        | November 21, 1996                   |

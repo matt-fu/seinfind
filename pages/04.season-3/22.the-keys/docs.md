@@ -1,7 +1,6 @@
 ---
 title: 'The Keys'
-episode: '23'
-pc: '321'
+episode: '23'pc: '321'
 written: 'Larry Charles'
 directed: 'Tom Cherones'
 aired: 'May 6, 1992'

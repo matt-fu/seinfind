@@ -3,11 +3,12 @@ title: 'The Movie'
 taxonomy:
     category:
         - episode
-episode: 14
-pc: 415         
+episode: 14pc: 415         
 written: Steve Skrovan & Bill Masters & Jon Hayman
 directed: Tom Cherones
 aired: January 6, 1993
+imdb: 
+wiki: 
 ---
 
 [TOC]

@@ -3,11 +3,11 @@ title: 'The Pothole'
 taxonomy:
     category:
         - episode
+episode: 16 
+pc: 816         
+written: Steve O'Donnell and Dan O'Keefe |
+directed: Andy Ackerman
+aired: February 20, 1997
+imdb: 
+wiki: 
 ---
-
-| Episode 16 | |
-|-----------------|--------------------------------|
-| Production code | 816                            |
-| Written by      | Steve O'Donnell and Dan O'Keefe |
-| Directed by     | Andy Ackerman                   |
-| Air date        | February 20, 1997                   |

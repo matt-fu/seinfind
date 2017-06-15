@@ -3,11 +3,11 @@ title: 'The Little Kicks'
 taxonomy:
     category:
         - episode
+episode: 4 
+pc: 804         
+written: Spike Feresten |
+directed: Andy Ackerman
+aired: October 10, 1996
+imdb: 
+wiki: 
 ---
-
-| Episode 4 | |
-|-----------------|--------------------------------|
-| Production code | 804                            |
-| Written by      | Spike Feresten |
-| Directed by     | Andy Ackerman                   |
-| Air date        | October 10, 1996                   |

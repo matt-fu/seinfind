@@ -1,10 +1,9 @@
 ---
 title: 'The Ticket'
-episode: '4'
-pc: '404'
+episode: '4'pc: '404'
 written: Larry David
 directed: Tom Cherones
-aired: September 16, 1992   
+aired: September 16, 1992
 imdb:
 wiki:
 taxonomy:
@@ -14,7 +13,9 @@ taxonomy:
 
 [TOC]
 
-"The Ticket" is the 44th episode of the sitcom Seinfeld. It was the 4th episode of the fourth season. It aired on September 16, 1992 as a one-hour episode with The Pitch. That version is available on the Season 4 box set.
+"The Ticket" is the 44th episode of the sitcom Seinfeld. It was the 4th episode of the fourth season. It aired on September 16, 1992
+imdb:
+as a one-hour episode with The Pitch. That version is available on the Season 4 box set.
 
 ## Plot
 

@@ -1,7 +1,6 @@
 ---
 title: 'The Letter'
-episode: '21'
-pc: '320'
+episode: '21'pc: '320'
 written: 'Larry David'
 directed: 'Tom Cherones'
 aired: 'March 25, 1992'

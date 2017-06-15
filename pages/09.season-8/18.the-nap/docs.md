@@ -3,11 +3,11 @@ title: 'The Nap'
 taxonomy:
     category:
         - episode
+episode: 18 
+pc: 818         
+written: Gregg Kavet & Andy Robin |
+directed: Andy Ackerman
+aired: April 10, 1997
+imdb: 
+wiki: 
 ---
-
-| Episode 18 | |
-|-----------------|--------------------------------|
-| Production code | 818                            |
-| Written by      | Gregg Kavet & Andy Robin |
-| Directed by     | Andy Ackerman                   |
-| Air date        | April 10, 1997                   |

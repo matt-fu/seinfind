@@ -1,7 +1,6 @@
 ---
 title: 'The Trip'
-episode: '1 & 2'
-pc: '401 & 402'
+episode: '1 & 2'pc: '401 & 402'
 written: 'Larry Charles'
 directed: 'Tom Cherones'
 aired: 'August 12, 1992'
@@ -40,6 +39,8 @@ Elaine does not appear in either part of "The Trip", and appears only minimally 
 
 Kramer's first name is missing from the script found on the dead woman's body, a reference to how—at this point in time—no one knows his full name.
 
-The episodes were broadcast much earlier than normal, as NBC wanted to cash in on ratings from the 1992 Barcelona Olympics (which NBC also covered) and as such these two episodes got some of the highest Nielsen ratings thus far.
+The episodes were broadcast much earlier than normal, as NBC wanted to cash in on ratings from the 1992
+imdb:
+Barcelona Olympics (which NBC also covered) and as such these two episodes got some of the highest Nielsen ratings thus far.
 
 ## Script

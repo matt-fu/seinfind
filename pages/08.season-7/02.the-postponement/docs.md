@@ -3,11 +3,11 @@ title: 'The Postponement'
 taxonomy:
     category:
         - episode
+episode: 2 
+pc: 702         
+written: Larry David |
+directed: Andy Ackerman
+aired: September 28, 1995
+imdb: 
+wiki: 
 ---
-
-| Episode 2 | |
-|-----------------|--------------------------------|
-| Production code | 702                            |
-| Written by      | Larry David |
-| Directed by     | Andy Ackerman                   |
-| Air date        | September 28, 1995                   |

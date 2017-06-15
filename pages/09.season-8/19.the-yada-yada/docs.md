@@ -3,11 +3,11 @@ title: 'The Yada Yada'
 taxonomy:
     category:
         - episode
+episode: 19 
+pc: 819         
+written: Peter Mehlman and Jill Franklyn |
+directed: Andy Ackerman
+aired: April 24, 1997
+imdb: 
+wiki: 
 ---
-
-| Episode 19 | |
-|-----------------|--------------------------------|
-| Production code | 819                            |
-| Written by      | Peter Mehlman and Jill Franklyn |
-| Directed by     | Andy Ackerman                   |
-| Air date        | April 24, 1997                   |

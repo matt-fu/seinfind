@@ -3,11 +3,11 @@ title: 'The Little Jerry'
 taxonomy:
     category:
         - episode
+episode: 11 
+pc: 811         
+written: Jennifer Crittenden |
+directed: Andy Ackerman
+aired: January 9, 1997
+imdb: 
+wiki: 
 ---
-
-| Episode 11 | |
-|-----------------|--------------------------------|
-| Production code | 811                            |
-| Written by      | Jennifer Crittenden |
-| Directed by     | Andy Ackerman                   |
-| Air date        | January 9, 1997                   |

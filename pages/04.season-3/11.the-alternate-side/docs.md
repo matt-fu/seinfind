@@ -1,7 +1,6 @@
 ---
 title: 'The Alternate Side'
-episode: '11'
-pc: '310'
+episode: '11'pc: '310'
 written: 'Larry David and Bill Masters'
 directed: 'Tom Cherones'
 aired: 'December 4, 1991'
