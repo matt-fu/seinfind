@@ -5,6 +5,7 @@ taxonomy:
         - episode
 episode: 1
 pc: 501         
-written: _Story by:_ Lawrence H. Levy _Teleplay by:_ Lawrence H. Levy and Larry David |
+written: Story by: Lawrence H. Levy | Teleplay by: Lawrence H. Levy and Larry David |
 directed: Tom Cherones
-aired: September 16, 1993             |
+aired: September 16, 1993
+---
