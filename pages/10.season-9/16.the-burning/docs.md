@@ -3,11 +3,11 @@ title: 'The Burning'
 taxonomy:
     category:
         - episode
-episode: 16 
+episode: 16
 pc: 916         
 written: Jennifer Crittenden |
 directed: Andy Ackerman
 aired: March 19, 1998
-imdb: 
-wiki: 
+imdb:
+wiki: 'https://en.wikipedia.org/wiki/The_Burning_(Seinfeld)'
 ---

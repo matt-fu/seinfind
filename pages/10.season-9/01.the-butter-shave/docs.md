@@ -3,11 +3,14 @@ title: 'The Butter Shave'
 taxonomy:
     category:
         - episode
-episode: 1 
-|-----------------|------------------------------------------|pc: 901                   
-written: Alec Berg & Jeff Schaffer & David Mandel |
-directed: Andy Ackerman         
-aired: September 25, 1997    
+episode: 1
+pc: 901
+written: Alec Berg & Jeff Schaffer & David Mandel
+directed: Andy Ackerman
+aired: September 25, 1997
+imdb:
+wiki: 'https://en.wikipedia.org/wiki/The_Butter_Shave'
+---
 
 [TOC]
 

@@ -3,8 +3,11 @@ title: 'The Serenity Now'
 taxonomy:
     category:
         - episode
-episode: 3 
-|-----------------|-----------------|pc: 903             |
-written: Steve Koren     |
-directed: Andy Ackerman   |
-aired: October 9, 1997 |
+episode: 3
+pc: 903
+written: Steve Koren
+directed: Andy Ackerman
+aired: October 9, 1997
+imdb:
+wiki: 'https://en.wikipedia.org/wiki/The_Serenity_Now'
+---
