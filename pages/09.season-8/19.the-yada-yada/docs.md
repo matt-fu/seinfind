@@ -3,11 +3,11 @@ title: 'The Yada Yada'
 taxonomy:
     category:
         - episode
-episode: 19 
-pc: 819         
-written: Peter Mehlman and Jill Franklyn |
+episode: 19
+pc: 819
+written: Peter Mehlman and Jill Franklyn
 directed: Andy Ackerman
 aired: April 24, 1997
-imdb: 
-wiki: 
+imdb: 'http://www.imdb.com/title/tt0697814/'
+wiki:
 ---

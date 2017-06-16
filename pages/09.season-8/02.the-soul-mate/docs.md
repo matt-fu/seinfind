@@ -3,11 +3,11 @@ title: 'The Soul Mate'
 taxonomy:
     category:
         - episode
-episode: 2 
-pc: 802         
-written: Peter Mehlman |
+episode: 2
+pc: 802
+written: Peter Mehlman
 directed: Andy Ackerman
 aired: September 26, 1996
-imdb: 
-wiki: 
+imdb: 'http://www.imdb.com/title/tt0697780/'
+wiki:
 ---
