@@ -7,7 +7,7 @@ episode: 12pc: 412
 written: Larry Charles
 directed: Tom Cherones
 aired: November 25, 1992
-imdb: 
+imdb: 'http://www.imdb.com/title/XXXXXXXXX'
 wiki: 
 ---
 

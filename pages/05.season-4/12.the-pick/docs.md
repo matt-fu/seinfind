@@ -7,7 +7,7 @@ episode: 13pc: 413
 written: Story by: Larry David and Marc Jaffe | Teleplay by: Larry David
 directed: Tom Cherones
 aired: December 16, 1992
-imdb: 
+imdb: 'http://www.imdb.com/title/XXXXXXXXX'
 wiki: 
 ---
 

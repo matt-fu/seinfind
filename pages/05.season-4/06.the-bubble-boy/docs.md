@@ -7,7 +7,7 @@ episode: 7pc: 407
 written: Larry David & Larry Charles
 directed: Tom Cherones
 aired: October 7, 1992
-imdb: 
+imdb: 'http://www.imdb.com/title/XXXXXXXXX'
 wiki: 
 ---
 

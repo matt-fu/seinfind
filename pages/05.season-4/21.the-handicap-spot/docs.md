@@ -7,7 +7,7 @@ episode: 22pc: 420
 written: Larry David
 directed: Tom Cherones
 aired: May 13, 1993
-imdb: 
+imdb: 'http://www.imdb.com/title/XXXXXXXXX'
 wiki: 
 ---
 

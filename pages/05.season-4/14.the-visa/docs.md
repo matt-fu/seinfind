@@ -7,7 +7,7 @@ episode: 15pc: 414
 written: Peter Mehlman
 directed: Tom Cherones
 aired: January 27, 1993
-imdb: 
+imdb: 'http://www.imdb.com/title/XXXXXXXXX'
 wiki: 
 ---
 

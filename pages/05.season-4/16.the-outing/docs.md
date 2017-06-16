@@ -7,7 +7,7 @@ episode: 17pc: 416
 written: Larry Charles
 directed: Tom Cherones
 aired: February 11, 1993
-imdb: 
+imdb: 'http://www.imdb.com/title/XXXXXXXXX'
 wiki: 
 ---
 

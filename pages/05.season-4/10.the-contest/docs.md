@@ -7,7 +7,7 @@ episode: 11pc: 411
 written: Larry David
 directed: Tom Cherones
 aired: November 18, 1992
-imdb: 
+imdb: 'http://www.imdb.com/title/XXXXXXXXX'
 wiki: 
 ---
 

@@ -7,7 +7,7 @@ episode: 20pc: 421
 written: Andy Robin
 directed: Tom Cherones
 aired: March 18, 1993
-imdb: 
+imdb: 'http://www.imdb.com/title/XXXXXXXXX'
 wiki: 
 ---
 

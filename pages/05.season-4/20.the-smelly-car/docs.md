@@ -7,7 +7,7 @@ episode: 21pc: 422
 written: Larry David & Peter Mehlman
 directed: Tom Cherones
 aired: April 15, 1993
-imdb: 
+imdb: 'http://www.imdb.com/title/XXXXXXXXX'
 wiki: 
 ---
 

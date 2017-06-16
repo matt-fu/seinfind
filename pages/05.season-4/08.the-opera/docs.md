@@ -7,7 +7,7 @@ episode: 9pc: 409
 written: Larry Charles
 directed: Tom Cherones
 aired: November 4, 1992
-imdb: 
+imdb: 'http://www.imdb.com/title/XXXXXXXXX'
 wiki: 
 ---
 

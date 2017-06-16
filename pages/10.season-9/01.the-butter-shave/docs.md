@@ -8,7 +8,7 @@ pc: 901
 written: Alec Berg & Jeff Schaffer & David Mandel
 directed: Andy Ackerman
 aired: September 25, 1997
-imdb:
+imdb: 'http://www.imdb.com/title/tt0697665'
 wiki: 'https://en.wikipedia.org/wiki/The_Butter_Shave'
 ---
 

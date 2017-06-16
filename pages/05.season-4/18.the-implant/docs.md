@@ -7,7 +7,7 @@ episode: 19pc: 419
 written: Peter Mehlman
 directed: Tom Cherones
 aired: February 25, 1993
-imdb: 
+imdb: 'http://www.imdb.com/title/XXXXXXXXX'
 wiki: 
 ---
 

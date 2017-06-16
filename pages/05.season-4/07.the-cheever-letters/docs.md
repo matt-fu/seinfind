@@ -7,7 +7,7 @@ episode: 8pc: 408
 written: Story by: Larry David and Elaine Pope & Tom Leopold | Teleplay by: Larry David
 directed: Tom Cherones
 aired: October 28, 1992
-imdb: 
+imdb: 'http://www.imdb.com/title/XXXXXXXXX'
 wiki: 
 ---
 
