@@ -9,5 +9,5 @@ written: Gregg Kavet & Andy Robin
 directed: Andy Ackerman
 aired: October 31, 1996
 imdb: 'http://www.imdb.com/title/tt0697694/'
-wiki:
+wiki: 'https://en.wikipedia.org/wiki/The_Fatigues'
 ---

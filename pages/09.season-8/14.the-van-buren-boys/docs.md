@@ -9,5 +9,5 @@ written: Darin Henry
 directed: Andy Ackerman
 aired: February 6, 1997
 imdb: 'http://www.imdb.com/title/tt0697803/'
-wiki:
+wiki: 'https://en.wikipedia.org/wiki/The_Van_Buren_Boys'
 ---

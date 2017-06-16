@@ -9,5 +9,5 @@ written: Peter Mehlman
 directed: Andy Ackerman
 aired: September 26, 1996
 imdb: 'http://www.imdb.com/title/tt0697780/'
-wiki:
+wiki: 'https://en.wikipedia.org/wiki/The_Soul_Mate'
 ---

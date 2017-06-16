@@ -9,5 +9,5 @@ written: Spike Feresten
 directed: Andy Ackerman
 aired: December 19, 1996
 imdb: 'http://www.imdb.com/title/tt0697649/'
-wiki:
+wiki: 'https://en.wikipedia.org/wiki/The_Andrea_Doria_(Seinfeld)'
 ---
