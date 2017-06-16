@@ -4,8 +4,8 @@ taxonomy:
     category:
         - episode
 episode: 9
-pc: 909         
-written: Jennifer Crittenden |
+pc: 909
+written: Jennifer Crittenden
 directed: Andy Ackerman
 aired: December 11, 1997
 imdb:

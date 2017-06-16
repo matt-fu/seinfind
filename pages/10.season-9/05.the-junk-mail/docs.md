@@ -4,8 +4,8 @@ taxonomy:
     category:
         - episode
 episode: 5
-pc: 103         
-written: Spike Feresten |
+pc: 103
+written: Spike Feresten
 directed: Andy Ackerman
 aired: October 30, 1997
 imdb:

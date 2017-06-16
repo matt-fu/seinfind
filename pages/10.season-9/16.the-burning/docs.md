@@ -4,8 +4,8 @@ taxonomy:
     category:
         - episode
 episode: 16
-pc: 916         
-written: Jennifer Crittenden |
+pc: 916
+written: Jennifer Crittenden
 directed: Andy Ackerman
 aired: March 19, 1998
 imdb:
