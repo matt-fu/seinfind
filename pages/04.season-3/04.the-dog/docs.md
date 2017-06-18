@@ -1,6 +1,7 @@
 ---
 title: 'The Dog'
-episode: '4'pc: '303'
+episode: '4'
+pc: '303'
 written: 'Larry David'
 directed: 'Tom Cherones'
 aired: 'October 9, 1991'

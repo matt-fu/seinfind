@@ -1,6 +1,7 @@
 ---
 title: 'The Stranded'
-episode: '10'pc: '209'
+episode: '10'
+pc: '209'
 written: 'Larry David & Jerry Seinfeld and Matt Goldman'
 directed: 'Tom Cherones'
 aired: 'November 27, 1991'

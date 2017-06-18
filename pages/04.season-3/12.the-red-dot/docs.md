@@ -1,6 +1,7 @@
 ---
 title: 'The Red Dot'
-episode: '12'pc: '311'
+episode: '12'
+pc: '311'
 written: 'Larry David'
 directed: 'Tom Cherones'
 aired: 'December 11, 1991'

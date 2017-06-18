@@ -1,6 +1,7 @@
 ---
 title: 'The Parking Garage'
-episode: '6'pc: '306'
+episode: '6'
+pc: '306'
 written: 'Larry David'
 directed: 'Tom Cherones'
 aired: 'October 30, 1991'

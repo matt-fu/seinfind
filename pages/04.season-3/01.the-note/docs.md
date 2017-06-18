@@ -1,6 +1,7 @@
 ---
 title: 'The Note'
-episode: '1'pc: '301'
+episode: '1'
+pc: '301'
 written: 'Larry David'
 directed: 'Tom Cherones'
 aired: 'September 18, 1991'

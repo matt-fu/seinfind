@@ -1,6 +1,7 @@
 ---
 title: 'The Library'
-episode: '5'pc: '304'
+episode: '5'
+pc: '304'
 written: 'Larry Charles'
 directed: 'Joshua White'
 aired: 'October 16, 1991'

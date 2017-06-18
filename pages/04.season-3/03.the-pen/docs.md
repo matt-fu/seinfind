@@ -1,6 +1,7 @@
 ---
 title: 'The Pen'
-episode: '3'pc: '305'
+episode: '3'
+pc: '305'
 written: 'Larry David'
 directed: 'Tom Cherones'
 aired: 'October 2, 1991'

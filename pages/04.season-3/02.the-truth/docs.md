@@ -1,6 +1,7 @@
 ---
 title: 'The Truth'
-episode: '2'pc: '302'
+episode: '2'
+pc: '302'
 written: 'Elaine Pope'
 directed: 'David Steinberg'
 aired: 'September 25, 1991'

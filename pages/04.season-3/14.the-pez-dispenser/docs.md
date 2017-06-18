@@ -1,6 +1,7 @@
 ---
 title: 'The Pez Dispenser'
-episode: '14'pc: '314'
+episode: '14'
+pc: '314'
 written: 'Larry David'
 directed: 'Tom Cherones'
 aired: 'January 15, 1992'

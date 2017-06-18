@@ -1,6 +1,7 @@
 ---
 title: 'The Subway'
-episode: '13'pc: '313'
+episode: '13'
+pc: '313'
 written: 'Larry Charles'
 directed: 'Tom Cherones'
 aired: 'January 8, 1992'

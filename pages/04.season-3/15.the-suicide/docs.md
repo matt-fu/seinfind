@@ -1,6 +1,7 @@
 ---
 title: 'The Suicide'
-episode: '15'pc: '312'
+episode: '15'
+pc: '312'
 written: 'Tom Leopold'
 directed: 'Tom Cherones'
 aired: 'January 29, 1992'

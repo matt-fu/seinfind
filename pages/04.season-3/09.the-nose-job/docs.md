@@ -1,6 +1,7 @@
 ---
 title: 'The Nose Job'
-episode: '9'pc: '309'
+episode: '9'
+pc: '309'
 written: 'Peter Mehlman'
 directed: 'Tom Cherones'
 aired: 'November 20, 1991'
