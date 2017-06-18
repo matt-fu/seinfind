@@ -1,6 +1,7 @@
 ---
 title: 'The Statue'
-episode: '6'pc: '210'
+episode: '6'
+pc: '210'
 written: 'Larry Charles'
 directed: 'Tom Cherones'
 aired: 'April 11, 1991'

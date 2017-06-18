@@ -1,6 +1,7 @@
 ---
 title: 'The Busboy'
-episode: '12'pc: '203'
+episode: '12'
+pc: '203'
 written: 'Larry David and Jerry Seinfeld'
 directed: 'Tom Cherones'
 aired: 'June 26, 1991'

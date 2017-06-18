@@ -1,6 +1,7 @@
 ---
 title: 'The Ex-Girlfriend'
-episode: '1'pc: '201'
+episode: '1'
+pc: '201'
 written: 'Larry David and Jerry Seinfeld'
 directed: 'Tom Cherones'
 aired: 'January 23, 1991'
