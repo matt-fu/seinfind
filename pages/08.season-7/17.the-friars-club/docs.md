@@ -1,5 +1,5 @@
 ---
-title: 'The Friars Club'
+title: 'The Friar's Club'
 taxonomy:
     category:
         - episode
