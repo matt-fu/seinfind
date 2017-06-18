@@ -1,6 +1,7 @@
 ---
 title: 'The Ticket'
-episode: '4'pc: '404'
+episode: '4'
+pc: '404'
 written: Larry David
 directed: Tom Cherones
 aired: September 16, 1992
