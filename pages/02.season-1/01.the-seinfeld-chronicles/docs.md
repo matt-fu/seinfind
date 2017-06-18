@@ -1,6 +1,7 @@
 ---
 title: 'The Seinfeld Chronicles'
-episode: '1'pc: '101'
+episode: '1'
+pc: '101'
 written: 'Larry David and Jerry Seinfeld'
 directed: 'Art Wolff'
 aired: 'July 5, 1989'

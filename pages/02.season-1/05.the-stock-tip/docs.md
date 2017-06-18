@@ -1,6 +1,7 @@
 ---
 title: 'The Stock Tip'
-episode: '5'pc: '105'
+episode: '5'
+pc: '105'
 written: 'Jerry Seinfeld and Larry David'
 directed: 'Tom Cherones'
 aired: 'June 21, 1990'
