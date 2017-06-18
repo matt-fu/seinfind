@@ -3,12 +3,13 @@ title: 'The Old Man'
 taxonomy:
     category:
         - episode
-episode: 18pc: 418         
-written: Story by: Bruce Kirschbaum \ Teleplay by: Larry Charles
+episode: 18
+pc: 418         
+written: Story by: Bruce Kirschbaum | Teleplay by: Larry Charles
 directed: Tom Cherones
 aired: February 18, 1993
 imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki: 
+wiki:
 ---
 
 [TOC]

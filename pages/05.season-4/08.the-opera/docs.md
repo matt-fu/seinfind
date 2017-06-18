@@ -3,12 +3,13 @@ title: 'The Opera'
 taxonomy:
     category:
         - episode
-episode: 9pc: 409         
+episode: 9
+pc: 409         
 written: Larry Charles
 directed: Tom Cherones
 aired: November 4, 1992
 imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki: 
+wiki:
 ---
 
 [TOC]
@@ -34,4 +35,3 @@ George has finally agreed to sell the ticket to someone as Susan runs up and say
 Kramer shows up with the tickets, and he, Elaine and Jerry take their seats. They are joined by Susan and Harry Fong, the man to whom George sold his ticket. They ask where George is; Harry says that he got George's ticket and Susan also tells them that he was "uncomfortable." Jerry and Elaine ask Kramer to whom he gave the last ticket. Just as the curtain comes up, Kramer answers, "Some nut in a clown suit." Jerry and Elaine look horrified as the audience applauds and the episode closes.
 
 ## Script
-

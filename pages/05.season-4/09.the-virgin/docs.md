@@ -3,12 +3,13 @@ title: 'The Virgin'
 taxonomy:
     category:
         - episode
-episode: 10pc: 410         
+episode: 10
+pc: 410         
 written: Story by: Peter Mehlman and Peter Farrelly & Bob Farrelly | Teleplay by: Peter Mehlman
 directed: Tom Cherones
 aired: November 11, 1992
 imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki: 
+wiki:
 ---
 
 [TOC]

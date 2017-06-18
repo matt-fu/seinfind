@@ -3,12 +3,13 @@ title: 'The Contest'
 taxonomy:
     category:
         - episode
-episode: 11pc: 411         
+episode: 11
+pc: 411         
 written: Larry David
 directed: Tom Cherones
 aired: November 18, 1992
 imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki: 
+wiki:
 ---
 
 [TOC]

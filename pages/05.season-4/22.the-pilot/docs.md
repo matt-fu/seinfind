@@ -3,12 +3,13 @@ title: 'The Pilot'
 taxonomy:
     category:
         - episode
-episode: 23 & 24pc: 423 & 424
+episode: 23 & 24
+pc: 423 & 424
 written: Larry David
 directed: Tom Cherones
 aired: May 20, 1993
 imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki: 
+wiki:
 ---
 
 [TOC]
