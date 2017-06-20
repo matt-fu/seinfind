@@ -5,7 +5,7 @@ pc: 601
 written: Larry David and Bill Masters & Bob Shaw
 directed: Andy Ackerman
 aired: September 22, 1994
-imdb:
+imdb: 'http://www.imdb.com/title/tt0697671'
 wiki:
 taxonomy:
     category:

@@ -5,7 +5,7 @@ pc: 621
 written: Marjorie Gross & Carol Leifer
 directed: Andy Ackerman
 aired: May 18, 1995
-imdb:
+imdb: 'http://www.imdb.com/title/tt0697802'
 wiki:
 taxonomy:
     category:

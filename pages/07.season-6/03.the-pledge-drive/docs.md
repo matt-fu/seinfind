@@ -5,7 +5,7 @@ pc: 603
 written: Tom Gammill & Max Pross
 directed: Andy Ackerman
 aired: October 6, 1994
-imdb:
+imdb: 'http://www.imdb.com/title/tt0697756'
 wiki:
 taxonomy:
     category:

@@ -5,7 +5,7 @@ pc: 616
 written: Tom Gammill & Max Pross
 directed: Andy Ackerman
 aired: February 23, 1995
-imdb:
+imdb: 'http://www.imdb.com/title/tt0697689'
 wiki:
 taxonomy:
     category:

@@ -5,7 +5,7 @@ pc: 618
 written: Alec Berg & Jeff Schaffer
 directed: Andy Ackerman
 aired: April 6, 1995
-imdb:
+imdb: 'http://www.imdb.com/title/tt0697688'
 wiki:
 taxonomy:
     category:

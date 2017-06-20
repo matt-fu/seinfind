@@ -5,7 +5,7 @@ pc: 623 & 624
 written: Peter Mehlman
 directed: Andy Ackerman
 aired: February 2, 1995
-imdb:
+imdb: 'http://www.imdb.com/title/tt0697644'
 wiki:
 taxonomy:
     category:

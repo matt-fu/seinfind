@@ -5,7 +5,7 @@ pc: 606
 written: Alec Berg & Jeff Schaffer
 directed: Andy Ackerman
 aired: November 3, 1994
-imdb:
+imdb: 'http://www.imdb.com/title/tt0697706'
 wiki:
 taxonomy:
     category:
