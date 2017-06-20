@@ -6,7 +6,7 @@ written: Peter Mehlman
 directed: Andy Ackerman
 aired: January 26, 1995
 imdb: 'http://www.imdb.com/title/tt0697770'
-wiki:
+wiki: 'https://en.wikipedia.org/wiki/The_Scofflaw'
 taxonomy:
     category:
         - episode

@@ -6,7 +6,7 @@ written: Story by: Marjorie Gross & Jonathan Gross and Ron Hauge & Charlie Rubin
 directed: Andy Ackerman
 aired: April 27, 1995
 imdb: 'http://www.imdb.com/title/tt0697702'
-wiki:
+wiki: 'https://en.wikipedia.org/wiki/The_Fusilli_Jerry'
 taxonomy:
     category:
         - episode

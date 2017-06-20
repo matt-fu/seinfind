@@ -6,7 +6,7 @@ written: Fred Stoller
 directed: Andy Ackerman
 aired: November 10, 1994
 imdb: 'http://www.imdb.com/title/tt0697706'
-wiki:
+wiki: 'https://en.wikipedia.org/wiki/The_Soup_(Seinfeld)'
 taxonomy:
     category:
         - episode
