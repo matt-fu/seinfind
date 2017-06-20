@@ -12,7 +12,7 @@ taxonomy:
         - episode
 ---
 
-> GEORGE: I can’t. I met them. They’re devout. You know, In the cab on the way over here, I actually thought about converting.  
+> GEORGE: ...You know, In the cab on the way over here, I actually thought about converting.  
 >
 > JERRY: To Latvian Orthodox?  
 >
