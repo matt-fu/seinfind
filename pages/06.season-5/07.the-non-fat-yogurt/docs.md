@@ -5,7 +5,7 @@ pc: 508
 written: Larry David
 directed: Tom Cherones
 aired: November 4, 1993
-imdb:
+imdb: 'http://www.imdb.com/title/tt0697739'
 wiki: 'https://en.wikipedia.org/wiki/The_Non-Fat_Yogurt'
 taxonomy:
     category:
