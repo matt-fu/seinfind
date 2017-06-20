@@ -1,14 +1,15 @@
 ---
 title: 'The Virgin'
-taxonomy:
-    category:
-        - episode
-episode: 10pc: 410         
+episode: 10
+pc: 410         
 written: Story by: Peter Mehlman and Peter Farrelly & Bob Farrelly | Teleplay by: Peter Mehlman
 directed: Tom Cherones
 aired: November 11, 1992
-imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki: 
+imdb: 'http://www.imdb.com/title/tt0697804/'
+wiki: 'https://en.wikipedia.org/wiki/The_Virgin_(Seinfeld)'
+taxonomy:
+    category:
+        - episode
 ---
 
 [TOC]

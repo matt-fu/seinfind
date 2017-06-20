@@ -1,14 +1,15 @@
 ---
 title: 'The Visa'
-taxonomy:
-    category:
-        - episode
-episode: 15pc: 414         
+episode: 15
+pc: 414         
 written: Peter Mehlman
 directed: Tom Cherones
 aired: January 27, 1993
-imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki: 
+imdb: 'http://www.imdb.com/title/tt0697805/'
+wiki: 'https://en.wikipedia.org/wiki/The_Visa'
+taxonomy:
+    category:
+        - episode
 ---
 
 [TOC]

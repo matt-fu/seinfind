@@ -1,6 +1,7 @@
 ---
 title: 'The Trip'
-episode: '1 & 2'pc: '401 & 402'
+episode: '1 & 2'
+pc: '401 & 402'
 written: 'Larry Charles'
 directed: 'Tom Cherones'
 aired: 'August 12, 1992'

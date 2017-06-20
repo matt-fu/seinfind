@@ -1,14 +1,15 @@
 ---
 title: 'The Outing'
-taxonomy:
-    category:
-        - episode
-episode: 17pc: 416         
+episode: 17
+pc: 416         
 written: Larry Charles
 directed: Tom Cherones
 aired: February 11, 1993
-imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki: 
+imdb: 'http://www.imdb.com/title/tt0697745/'
+wiki: 'https://en.wikipedia.org/wiki/The_Outing_(Seinfeld)'
+taxonomy:
+    category:
+        - episode
 ---
 
 [TOC]

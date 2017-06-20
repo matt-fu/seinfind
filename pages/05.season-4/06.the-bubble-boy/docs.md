@@ -1,14 +1,15 @@
 ---
 title: 'The Bubble Boy'
-taxonomy:
-    category:
-        - episode
-episode: 7pc: 407         
+episode: 7
+pc: 407         
 written: Larry David & Larry Charles
 directed: Tom Cherones
 aired: October 7, 1992
-imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki: 
+imdb: 'http://www.imdb.com/title/tt0697662/'
+wiki: 'https://en.wikipedia.org/wiki/The_Bubble_Boy_(Seinfeld)'
+taxonomy:
+    category:
+        - episode
 ---
 
 [TOC]
