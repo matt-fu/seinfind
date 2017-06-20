@@ -1,12 +1,13 @@
 ---
 title: 'The Masseuse'
+episode: 9
+pc: 509
+written: Peter Mehlman
+directed: Tom Cherones
+aired: November 18, 1993
+imdb:
+wiki: 'https://en.wikipedia.org/wiki/The_Masseuse_(Seinfeld)'
 taxonomy:
     category:
         - episode
-episode: 9pc: 509         
-written: Peter Mehlman |
-directed: Tom Cherones
-aired: November 18, 1993
-imdb: 
-wiki: 
 ---
