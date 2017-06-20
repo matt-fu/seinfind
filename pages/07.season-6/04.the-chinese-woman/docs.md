@@ -1,6 +1,7 @@
 ---
 title: 'The Chinese Woman'
-episode: '4'pc: '604'
+episode: '4'
+pc: '604'
 written: 'Peter Mehlman'
 directed: 'Andy Ackerman'
 aired: 'October 13, 1994'

@@ -1,8 +1,5 @@
 ---
 title: 'The Burning'
-taxonomy:
-    category:
-        - episode
 episode: 16
 pc: 916
 written: Jennifer Crittenden
