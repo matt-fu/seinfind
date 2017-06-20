@@ -5,8 +5,8 @@ pc: '404'
 written: Larry David
 directed: Tom Cherones
 aired: September 16, 1992
-imdb:
-wiki:
+imdb: 'http://www.imdb.com/title/tt0697798/'
+wiki: 'https://en.wikipedia.org/wiki/The_Ticket_(Seinfeld)'
 taxonomy:
     category:
         - episode

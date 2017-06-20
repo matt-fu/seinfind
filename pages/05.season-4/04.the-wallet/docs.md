@@ -5,8 +5,8 @@ pc: 405
 written: Larry David
 directed: Tom Cherones
 aired: September 23, 1992
-imdb:
-wiki:
+imdb: 'http://www.imdb.com/title/tt0697808/'
+wiki: 'https://en.wikipedia.org/wiki/The_Wallet'
 taxonomy:
     category:
         - episode

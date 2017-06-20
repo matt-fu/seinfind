@@ -1,15 +1,15 @@
 ---
 title: 'The Junior Mint'
-taxonomy:
-    category:
-        - episode
 episode: 20
 pc: 421         
 written: Andy Robin
 directed: Tom Cherones
 aired: March 18, 1993
-imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki:
+imdb: 'http://www.imdb.com/title/tt0697715/'
+wiki: 'https://en.wikipedia.org/wiki/The_Junior_Mint'
+taxonomy:
+    category:
+        - episode
 ---
 
 [TOC]

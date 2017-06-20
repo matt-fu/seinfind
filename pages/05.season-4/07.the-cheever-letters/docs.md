@@ -1,15 +1,15 @@
 ---
 title: 'The Cheever Letters'
-taxonomy:
-    category:
-        - episode
 episode: 8
 pc: 408         
 written: Story by: Larry David and Elaine Pope & Tom Leopold | Teleplay by: Larry David
 directed: Tom Cherones
 aired: October 28, 1992
-imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki:
+imdb: 'http://www.imdb.com/title/tt0697673/'
+wiki: 'https://en.wikipedia.org/wiki/The_Cheever_Letters'
+taxonomy:
+    category:
+        - episode
 ---
 
 [TOC]

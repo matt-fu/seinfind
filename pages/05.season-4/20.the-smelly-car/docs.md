@@ -1,15 +1,15 @@
 ---
 title: 'The Smelly Car'
-taxonomy:
-    category:
-        - episode
 episode: 21
 pc: 422         
 written: Larry David & Peter Mehlman
 directed: Tom Cherones
 aired: April 15, 1993
-imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki:
+imdb: 'http://www.imdb.com/title/tt0697778/'
+wiki: 'https://en.wikipedia.org/wiki/The_Smelly_Car'
+taxonomy:
+    category:
+        - episode
 ---
 
 [TOC]

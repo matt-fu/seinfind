@@ -1,15 +1,15 @@
 ---
 title: 'The Watch'
-taxonomy:
-    category:
-        - episode
 episode: 6
 pc: 406         
 written: Larry David
 directed: Tom Cherones
 aired: September 30, 1992
-imdb:
-wiki:
+imdb: 'http://www.imdb.com/title/tt0697809/'
+wiki: 'https://en.wikipedia.org/wiki/The_Watch_(Seinfeld)'
+taxonomy:
+    category:
+        - episode
 ---
 
 [TOC]

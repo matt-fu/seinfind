@@ -1,15 +1,15 @@
 ---
 title: 'The Implant'
-taxonomy:
-    category:
-        - episode
 episode: 19
 pc: 419         
 written: Peter Mehlman
 directed: Tom Cherones
 aired: February 25, 1993
-imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki:
+imdb: 'http://www.imdb.com/title/tt0697711/'
+wiki: 'https://en.wikipedia.org/wiki/The_Implant'
+taxonomy:
+    category:
+        - episode
 ---
 
 [TOC]

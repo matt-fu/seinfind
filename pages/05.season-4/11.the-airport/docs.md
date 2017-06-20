@@ -1,15 +1,15 @@
 ---
 title: 'The Airport'
-taxonomy:
-    category:
-        - episode
 episode: 12
-pc: 412
+pc: 412         
 written: Larry Charles
 directed: Tom Cherones
 aired: November 25, 1992
-imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki:
+imdb: 'http://www.imdb.com/title/tt0697647/'
+wiki: 'https://en.wikipedia.org/wiki/The_Airport'
+taxonomy:
+    category:
+        - episode
 ---
 
 [TOC]

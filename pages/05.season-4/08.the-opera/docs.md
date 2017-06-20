@@ -1,15 +1,15 @@
 ---
 title: 'The Opera'
-taxonomy:
-    category:
-        - episode
 episode: 9
 pc: 409         
 written: Larry Charles
 directed: Tom Cherones
 aired: November 4, 1992
-imdb: 'http://www.imdb.com/title/XXXXXXXXX'
-wiki:
+imdb: 'http://www.imdb.com/title/tt0697743/'
+wiki: 'https://en.wikipedia.org/wiki/The_Opera_(Seinfeld)'
+taxonomy:
+    category:
+        - episode
 ---
 
 [TOC]
