@@ -1,4 +1,6 @@
 ---
+
+> I feel like I got a B12 shot, this is like a taste explosion
 title: 'The Mango'
 episode: 1
 pc: 501
